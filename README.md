@@ -1,0 +1,1 @@
+Rychlo apka se 100 otázkami ke každé státnicové otázce na bakalářském oboru Informační managment Univerzity Kradce Králové

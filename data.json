@@ -1,0 +1,998 @@
+{
+    "Managment": {
+        "1. Východiska a základní principy managementu": [
+            {
+                "question": "Co je management?",
+                "answers": ["Specifická aktivita a skupina vedoucích pracovníků", "Pouze skupina vedoucích pracovníků", "Pouze organizace logistických procesů", "Pouze hodnocení pracovníků"]
+            },
+            {
+                "question": "Kdy vznikl management?",
+                "answers": ["Druhá polovina 18. století", "První polovina 18. století", "Druhá polovina 19. století", "První polovina 19. století"]
+            },
+            {
+                "question": "Kdo je autorem vědeckého managementu?",
+                "answers": ["Frederic W. Taylor", "Elton Mayo", "Henry Fayol", "Peter Drucker"]
+            },
+            {
+                "question": "Jaký byl hlavní cíl taylorismu?",
+                "answers": ["Racionalizace fyzické práce", "Zvýšení platů dělníků", "Snížení počtu zaměstnanců", "Automatizace všech činností"]
+            },
+            {
+                "question": "Co zkoumaly Hawthornské studie?",
+                "answers": ["Vliv pracovního prostředí na produktivitu", "Zvýšení platů na efektivitu", "Automatizaci výrobních procesů", "Efektivitu taylorismu"]
+            },
+            {
+                "question": "Kdo definoval základní funkce managementu?",
+                "answers": ["Henry Fayol", "Frederic W. Taylor", "Elton Mayo", "Peter Drucker"]
+            },
+            {
+                "question": "Která z těchto funkcí managementu nezahrnuje Fayolův model?",
+                "answers": ["Kreativita", "Plánování", "Kontrola", "Koordinace"]
+            },
+            {
+                "question": "Jaké jsou charakteristiky japonského managementu?",
+                "answers": ["Dlouhodobá orientace a kolektivní rozhodování", "Krátkodobá orientace a individuální rozhodování", "Rychlá rozhodnutí a pomalá realizace", "Jasná a specifická odpovědnost"]
+            },
+            {
+                "question": "Co je Just in Time (JIT)?",
+                "answers": ["Organizační přístup zaměřený na produkci podle potřeb zákazníka", "Metoda na zvýšení produktivity práce", "Systém řízení kvality", "Styl vedení v japonském managementu"]
+            },
+            {
+                "question": "Co je hlavní filozofie TQM?",
+                "answers": ["Dělat věci preventivně dobře", "Zvyšovat platy zaměstnanců", "Automatizovat všechny činnosti", "Snižovat počet zaměstnanců"]
+            },
+            {
+                "question": "Co je management jako vědní obor?",
+                "answers": ["Soubor přístupů a technik pro dosažení cílů organizace", "Skupina vedoucích pracovníků", "Organizace logistických procesů", "Automatizace výrobních procesů"]
+            },
+            {
+                "question": "Kdo tvoří top management?",
+                "answers": ["Vrcholoví pracovníci podniku", "Střední manažeři", "Manažeři první linie", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Co zahrnuje funkce personalistiky?",
+                "answers": ["Řízení lidských zdrojů a péče o zaměstnance", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Jaké jsou úrovně managementu?",
+                "answers": ["Vrcholový, střední a operativní", "Top, middle a bottom", "Strategický, taktický a operativní", "Všeobecný, specializovaný a výkonný"]
+            },
+            {
+                "question": "Co znamená systémová představa organizace?",
+                "answers": ["Organizace jako součást většího ekonomického systému", "Organizace jako skupina vedoucích pracovníků", "Organizace jako soubor přístupů a technik", "Organizace jako automatizovaný systém"]
+            },
+            {
+                "question": "Co je hlavním úkolem manažerů při plánování?",
+                "answers": ["Stanovení cílů a strategií", "Získávání a péče o zaměstnance", "Motivace zaměstnanců", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Jaké jsou klíčové prvky japonského managementu?",
+                "answers": ["Kolektivní odpovědnost a dlouhodobá orientace", "Individuální odpovědnost a krátkodobá orientace", "Rychlá rozhodnutí a pomalá realizace", "Individuální odpovědnost a specifická odpovědnost"]
+            },
+            {
+                "question": "Co zkoumá vědecký management?",
+                "answers": ["Nejlepší způsob vykonání činnosti", "Sociální podmínky pracovníků", "Kvalitu pracovního prostředí", "Efektivitu automatizace"]
+            },
+            {
+                "question": "Jaký styl vedení je typický pro USA?",
+                "answers": ["Direktivní styl a individualismus", "Otcovský styl a harmonii", "Kolektivní odpovědnost a neformální struktura", "Sociální integrace a vyhýbání se konfrontaci"]
+            },
+            {
+                "question": "Co je hlavním cílem systému Just in Time (JIT)?",
+                "answers": ["Eliminovat všechny druhy ztrát a zásob", "Zvyšovat produktivitu práce", "Snižovat počet zaměstnanců", "Automatizovat výrobní procesy"]
+            },
+            {
+                "question": "Kdo je autorem tzv. taylorismu?",
+                "answers": ["Frederic W. Taylor", "Elton Mayo", "Henry Fayol", "Peter Drucker"]
+            },
+            {
+                "question": "Jaké jsou hlavní zásady Taylorova řízení?",
+                "answers": ["Exaktnost a podpora spolupráce", "Kreativita a inovace", "Snížení počtu zaměstnanců", "Automatizace všech činností"]
+            },
+            {
+                "question": "Co zjistily Hawthornské studie o produktivitě práce?",
+                "answers": ["Produktivitu ovlivňují psychologické a sociální faktory", "Produktivitu ovlivňuje pouze zvýšení platů", "Automatizace vede ke zvýšení produktivity", "Změna pracovního prostředí nemá vliv"]
+            },
+            {
+                "question": "Jaký význam mají neformální skupiny podle Hawthornských studií?",
+                "answers": ["Zvyšují soudržnost a produktivitu", "Snižují efektivitu práce", "Nemají žádný vliv na produktivitu", "Vedou ke zvýšení kontrol pracovníků"]
+            },
+            {
+                "question": "Jaký je rozdíl mezi japonským a americkým managementem v plánování?",
+                "answers": ["Japonský je dlouhodobý a kolektivní, americký krátkodobý a individuální", "Americký je dlouhodobý a kolektivní, japonský krátkodobý a individuální", "Oba jsou dlouhodobé a kolektivní", "Oba jsou krátkodobé a individuální"]
+            },
+            {
+                "question": "Co znamená TQM?",
+                "answers": ["Systém řízení zaměřený na prevenci problémů", "Zvýšení platů zaměstnanců", "Automatizace všech činností", "Snížení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním cílem managementu jako vědního oboru?",
+                "answers": ["Dosažení cílů organizace", "Snížení počtu zaměstnanců", "Automatizace všech činností", "Zvýšení platů zaměstnanců"]
+            },
+            {
+                "question": "Kdo jsou manažeři první linie?",
+                "answers": ["Mistři, vedoucí dílen a předáci", "Vrcholoví manažeři", "Střední manažeři", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Co zahrnuje funkce organizování?",
+                "answers": ["Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Řízení lidských zdrojů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená systémové řízení organizace?",
+                "answers": ["Organizace jako součást většího ekonomického systému", "Organizace jako skupina vedoucích pracovníků", "Organizace jako soubor přístupů a technik", "Organizace jako automatizovaný systém"]
+            },
+            {
+                "question": "Co je hlavním cílem personalistiky?",
+                "answers": ["Řízení lidských zdrojů a péče o zaměstnance", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená koordinace v managementu?",
+                "answers": ["Slaďování činností spolupracovníků", "Dávání úkolů a instrukcí", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Jaké jsou hlavní rozdíly mezi japonským a americkým managementem?",
+                "answers": ["Japonský je dlouhodobý a kolektivní, americký krátkodobý a individuální", "Americký je dlouhodobý a kolektivní, japonský krátkodobý a individuální", "Oba jsou dlouhodobé a kolektivní", "Oba jsou krátkodobé a individuální"]
+            },
+            {
+                "question": "Co je hlavním cílem systému řízení kvality (TQM)?",
+                "answers": ["Dělat věci preventivně dobře", "Zvyšovat platy zaměstnanců", "Automatizovat všechny činnosti", "Snižovat počet zaměstnanců"]
+            },
+            {
+                "question": "Kdo je odpovědný za strategické řízení?",
+                "answers": ["Vrcholoví manažeři", "Střední manažeři", "Manažeři první linie", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Jaký je hlavní úkol top managementu?",
+                "answers": ["Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Motivace zaměstnanců", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co zahrnuje taktické řízení?",
+                "answers": ["Konkrétní postupy a prostředky k realizaci strategie", "Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená operativní řízení?",
+                "answers": ["Detailní řízení vybrané oblasti v krátkém časovém horizontu", "Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Motivace zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním úkolem manažerů při organizování?",
+                "answers": ["Rozdělení práce a přiřazení zdrojů", "Stanovení cílů a strategií", "Motivace zaměstnanců", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co je hlavním úkolem manažerů při kontrole?",
+                "answers": ["Ověřování souladu plánu a skutečností", "Stanovení cílů a strategií", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců"]
+            },
+            {
+                "question": "Co znamená termín taylorismus?",
+                "answers": ["Soubor principů řízení práce a výroby", "Automatizace výrobních procesů", "Snížení počtu zaměstnanců", "Zvýšení platů dělníků"]
+            },
+            {
+                "question": "Kdo je autorem Hawthornských studií?",
+                "answers": ["Elton Mayo", "Frederic W. Taylor", "Henry Fayol", "Peter Drucker"]
+            },
+            {
+                "question": "Co je hlavním cílem vědeckého managementu?",
+                "answers": ["Racionalizace fyzické práce", "Zvýšení platů dělníků", "Automatizace všech činností", "Snížení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co zjistily Hawthornské studie o vlivu pracovního prostředí?",
+                "answers": ["Psychologické a sociální faktory mají vliv na produktivitu", "Zvýšení platů je jediný způsob, jak zvýšit produktivitu", "Automatizace výrobních procesů zvyšuje produktivitu", "Změna pracovního prostředí nemá vliv"]
+            },
+            {
+                "question": "Co znamená termín Just in Time (JIT)?",
+                "answers": ["Organizační přístup k produkci podle potřeb zákazníka", "Metoda na zvýšení produktivity práce", "Systém řízení kvality", "Styl vedení v japonském managementu"]
+            },
+            {
+                "question": "Jaké jsou základní funkce managementu podle Fayola?",
+                "answers": ["Plánování, organizování, přikazování, koordinace, kontrola", "Řízení, vedení, kontrola, plánování, hodnocení", "Organizování, plánování, hodnocení, kontrola, výběr", "Motivace, vedení, řízení, kontrola, plánování"]
+            },
+            {
+                "question": "Co zahrnuje plánování v managementu?",
+                "answers": ["Stanovení budoucích cílů a postupů", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co zahrnuje funkce přikazování?",
+                "answers": ["Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Co znamená funkce kontroly v managementu?",
+                "answers": ["Ověřování souladu plánu a skutečností", "Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů"]
+            },
+            {
+                "question": "Co je hlavním cílem funkce koordinace?",
+                "answers": ["Slaďování činností spolupracovníků", "Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů"]
+            },
+            {
+                "question": "Co znamená termín TQM?",
+                "answers": ["Systém řízení zaměřený na prevenci problémů", "Zvýšení platů zaměstnanců", "Automatizace všech činností", "Snížení počtu zaměstnanců"]
+            },
+            {
+                "question": "Kdo tvoří střední management?",
+                "answers": ["Manažeři závodů a vedoucí útvarů", "Vrcholoví manažeři", "Manažeři první linie", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Co je hlavním úkolem manažerů při vedení?",
+                "answers": ["Motivace zaměstnanců k plnění úkolů", "Stanovení cílů a strategií", "Rozdělení práce a přiřazení zdrojů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená termín vrcholový management?",
+                "answers": ["Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Motivace zaměstnanců", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co je hlavním cílem funkce přikazování?",
+                "answers": ["Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Co je hlavním cílem funkce organizování?",
+                "answers": ["Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená termín systémové řízení organizace?",
+                "answers": ["Organizace jako součást většího ekonomického systému", "Organizace jako skupina vedoucích pracovníků", "Organizace jako soubor přístupů a technik", "Organizace jako automatizovaný systém"]
+            },
+            {
+                "question": "Co je hlavním cílem funkce personalistiky?",
+                "answers": ["Řízení lidských zdrojů a péče o zaměstnance", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená termín koordinace?",
+                "answers": ["Slaďování činností spolupracovníků", "Dávání úkolů a instrukcí podřízeným", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Jaké jsou hlavní rozdíly mezi japonským a americkým managementem v personalistice?",
+                "answers": ["Japonský je zaměřen na dlouhodobou výkonnost, americký na krátkodobé výsledky", "Americký je zaměřen na dlouhodobou výkonnost, japonský na krátkodobé výsledky", "Oba jsou zaměřeny na dlouhodobou výkonnost", "Oba jsou zaměřeny na krátkodobé výsledky"]
+            },
+            {
+                "question": "Co znamená termín TQM v kontextu řízení kvality?",
+                "answers": ["Dělat věci preventivně dobře", "Zvyšovat platy zaměstnanců", "Automatizovat všechny činnosti", "Snižovat počet zaměstnanců"]
+            },
+            {
+                "question": "Kdo je odpovědný za operativní řízení?",
+                "answers": ["Manažeři první linie", "Vrcholoví manažeři", "Střední manažeři", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Co zahrnuje funkce organizování podle Fayola?",
+                "answers": ["Zabezpečení zdrojů a podmínek pro plánované činnosti", "Dávání úkolů a instrukcí podřízeným", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Co je hlavním cílem managementu jako souboru řídících pracovníků?",
+                "answers": ["Realizace manažerských funkcí", "Snížení počtu zaměstnanců", "Automatizace všech činností", "Zvýšení platů zaměstnanců"]
+            },
+            {
+                "question": "Kdo tvoří top management v podniku?",
+                "answers": ["Vrcholoví pracovníci podniku", "Střední manažeři", "Manažeři první linie", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Co zahrnuje funkce plánování?",
+                "answers": ["Stanovení budoucích cílů a postupů", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená termín taylorismus v kontextu managementu?",
+                "answers": ["Soubor principů řízení práce a výroby", "Automatizace výrobních procesů", "Snížení počtu zaměstnanců", "Zvýšení platů dělníků"]
+            },
+            {
+                "question": "Kdo je autorem TQM?",
+                "answers": ["W. Edwards Deming", "Elton Mayo", "Frederic W. Taylor", "Henry Fayol"]
+            },
+            {
+                "question": "Co znamená termín Just in Time (JIT) v kontextu výroby?",
+                "answers": ["Organizační přístup k produkci podle potřeb zákazníka", "Metoda na zvýšení produktivity práce", "Systém řízení kvality", "Styl vedení v japonském managementu"]
+            },
+            {
+                "question": "Co zahrnuje funkce přikazování podle Fayola?",
+                "answers": ["Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Co je hlavním cílem funkce kontroly?",
+                "answers": ["Ověřování souladu plánu a skutečností", "Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů"]
+            },
+            {
+                "question": "Co znamená termín koordinace podle Fayola?",
+                "answers": ["Slaďování činností spolupracovníků", "Dávání úkolů a instrukcí podřízeným", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Jaké jsou hlavní rozdíly mezi japonským a americkým managementem v kontrole?",
+                "answers": ["Japonský je zaměřen na skupinovou výkonnost, americký na individuální výkonnost", "Americký je zaměřen na skupinovou výkonnost, japonský na individuální výkonnost", "Oba jsou zaměřeny na skupinovou výkonnost", "Oba jsou zaměřeny na individuální výkonnost"]
+            },
+            {
+                "question": "Co znamená termín TQM v kontextu podnikového řízení?",
+                "answers": ["Dělat věci preventivně dobře", "Zvyšovat platy zaměstnanců", "Automatizovat všechny činnosti", "Snižovat počet zaměstnanců"]
+            },
+            {
+                "question": "Kdo je odpovědný za strategické řízení v podniku?",
+                "answers": ["Vrcholoví manažeři", "Střední manažeři", "Manažeři první linie", "Všichni zaměstnanci firmy"]
+            },
+            {
+                "question": "Co je hlavním úkolem top managementu v podniku?",
+                "answers": ["Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Motivace zaměstnanců", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co zahrnuje taktické řízení podle Fayola?",
+                "answers": ["Konkrétní postupy a prostředky k realizaci strategie", "Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co znamená operativní řízení podle Fayola?",
+                "answers": ["Detailní řízení vybrané oblasti v krátkém časovém horizontu", "Stanovení základního zaměření podniku", "Řízení lidských zdrojů", "Motivace zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním úkolem manažerů při organizování podle Fayola?",
+                "answers": ["Rozdělení práce a přiřazení zdrojů", "Stanovení cílů a strategií", "Motivace zaměstnanců", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co je hlavním úkolem manažerů při kontrole podle Fayola?",
+                "answers": ["Ověřování souladu plánu a skutečností", "Stanovení cílů a strategií", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců"]
+            },
+            {
+                "question": "Co znamená termín taylorismus v kontextu řízení práce?",
+                "answers": ["Soubor principů řízení práce a výroby", "Automatizace výrobních procesů", "Snížení počtu zaměstnanců", "Zvýšení platů dělníků"]
+            },
+            {
+                "question": "Kdo je autorem Hawthornských studií o produktivitě práce?",
+                "answers": ["Elton Mayo", "Frederic W. Taylor", "Henry Fayol", "Peter Drucker"]
+            },
+            {
+                "question": "Co je hlavním cílem vědeckého managementu podle Taylora?",
+                "answers": ["Racionalizace fyzické práce", "Zvýšení platů dělníků", "Automatizace všech činností", "Snížení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co zjistily Hawthornské studie o vlivu sociálních faktorů?",
+                "answers": ["Psychologické a sociální faktory mají vliv na produktivitu", "Zvýšení platů je jediný způsob, jak zvýšit produktivitu", "Automatizace výrobních procesů zvyšuje produktivitu", "Změna pracovního prostředí nemá vliv"]
+            },
+            {
+                "question": "Co znamená termín Just in Time (JIT) v kontextu organizačního přístupu?",
+                "answers": ["Organizační přístup k produkci podle potřeb zákazníka", "Metoda na zvýšení produktivity práce", "Systém řízení kvality", "Styl vedení v japonském managementu"]
+            },
+            {
+                "question": "Jaké jsou základní funkce managementu podle Henryho Fayola?",
+                "answers": ["Plánování, organizování, přikazování, koordinace, kontrola", "Řízení, vedení, kontrola, plánování, hodnocení", "Organizování, plánování, hodnocení, kontrola, výběr", "Motivace, vedení, řízení, kontrola, plánování"]
+            },
+            {
+                "question": "Co zahrnuje funkce plánování v managementu podle Fayola?",
+                "answers": ["Stanovení budoucích cílů a postupů", "Rozdělení práce a přiřazení zdrojů", "Motivace zaměstnanců k plnění úkolů", "Dohled nad výslednou podobou práce"]
+            },
+            {
+                "question": "Co zahrnuje funkce přikazování podle Henryho Fayola?",
+                "answers": ["Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů", "Ověřování souladu plánu a skutečností"]
+            },
+            {
+                "question": "Co znamená funkce kontroly v managementu podle Fayola?",
+                "answers": ["Ověřování souladu plánu a skutečností", "Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů"]
+            },
+            {
+                "question": "Co je hlavním cílem funkce koordinace podle Fayola?",
+                "answers": ["Slaďování činností spolupracovníků", "Dávání úkolů a instrukcí podřízeným", "Rozdělení práce a přiřazení zdrojů", "Stanovení budoucích cílů"]
+            }
+        ],
+        "2. Plánování a strategické řízení organizace": [
+            {
+                "question": "Co je výchozím bodem všech manažerských činností?",
+                "answers": ["Plánování", "Organizování", "Kontrola", "Řízení lidských zdrojů"]
+            },
+            {
+                "question": "Co obsahuje proces plánování?",
+                "answers": ["Vymezení cílů a naznačení cest k jejich dosažení", "Hodnocení pracovníků", "Komunikace se zákazníky", "Organizace logistických procesů"]
+            },
+            {
+                "question": "Co je výsledkem procesu plánování?",
+                "answers": ["Plán", "Organizační struktura", "Rozpočet", "Výkaz zisků a ztrát"]
+            },
+            {
+                "question": "Která z následujících analýz je součástí strategického plánování?",
+                "answers": ["SWOT analýza", "ABC analýza", "Pareto analýza", "Fishbone analýza"]
+            },
+            {
+                "question": "Co určuje poslání organizace?",
+                "answers": ["Základní smysl existence organizace", "Dlouhodobé cíle a strategie", "Krátkodobé cíle a úkoly", "Technické prostředky a zdroje"]
+            },
+            {
+                "question": "Co je vize organizace?",
+                "answers": ["Relativně jasná představa budoucího stavu", "Současné finanční cíle", "Krátkodobé operativní plány", "Analýza konkurence"]
+            },
+            {
+                "question": "Co zahrnuje strategie organizace?",
+                "answers": ["Dlouhodobý program a způsob činnosti", "Krátkodobé cíle a úkoly", "Rozpočet na nadcházející rok", "Technické specifikace produktů"]
+            },
+            {
+                "question": "Co zahrnuje strategický management?",
+                "answers": ["Výzkum tržních podmínek a potřeb zákazníků", "Operativní řízení výroby", "Denní kontrolu docházky zaměstnanců", "Sledování kvality produktů"]
+            },
+            {
+                "question": "Jaký je první krok strategického cyklu?",
+                "answers": ["Základní premisy", "Realizace strategie", "Kontrola strategie", "Situační analýza"]
+            },
+            {
+                "question": "Co zahrnuje SWOT analýza?",
+                "answers": ["Identifikace silných a slabých stránek, příležitostí a hrozeb", "Finanční výkazy", "Krátkodobé operativní plány", "Organizační struktura"]
+            },
+            {
+                "question": "Co patří mezi vnitřní činitele SWOT analýzy?",
+                "answers": ["Silné a slabé stránky", "Příležitosti a hrozby", "Ekonomické faktory", "Technologické trendy"]
+            },
+            {
+                "question": "Co patří mezi vnější činitele SWOT analýzy?",
+                "answers": ["Příležitosti a hrozby", "Silné a slabé stránky", "Kapitálová síla", "Kvalita výrobků"]
+            },
+            {
+                "question": "Která z následujících analýz se zaměřuje na politické, ekonomické, sociální a technické faktory?",
+                "answers": ["STEP/PEST analýza", "SWOT analýza", "BCG matice", "BSC analýza"]
+            },
+            {
+                "question": "Co znamená zkratka BSC?",
+                "answers": ["Balanced Scorecard", "Basic Strategy Chart", "Business Strategy Concept", "Balanced Strategic Control"]
+            },
+            {
+                "question": "Co měří výkonnost podniku v BSC analýze?",
+                "answers": ["Finanční perspektiva, zákaznická perspektiva, perspektiva podnikových procesů, perspektiva učení se a růstu", "Silné a slabé stránky, příležitosti a hrozby", "Krátkodobé, střednědobé a dlouhodobé cíle", "Kapacitní využití, efektivita výroby, inovace"]
+            },
+            {
+                "question": "K čemu slouží Porterův model pěti sil?",
+                "answers": ["Analýza konkurenčního prostředí", "Finanční plánování", "Organizační struktura", "Řízení lidských zdrojů"]
+            },
+            {
+                "question": "Kolik kvadrantů obsahuje BCG matice?",
+                "answers": ["Čtyři", "Tři", "Pět", "Šest"]
+            },
+            {
+                "question": "Které z následujících položek patří do BCG matice?",
+                "answers": ["Otazníky, hvězdy, dojné krávy, bídní psi", "Ziskové jednotky, investiční jednotky, podpůrné jednotky, nákladové jednotky", "Silné stránky, slabé stránky, příležitosti, hrozby", "Finanční perspektiva, zákaznická perspektiva, perspektiva procesů, perspektiva učení"]
+            },
+            {
+                "question": "Co je hlavní oporou firmy podle BCG matice?",
+                "answers": ["Dojné krávy", "Hvězdy", "Otazníky", "Bídní psi"]
+            },
+            {
+                "question": "Co je konkurenceschopnost?",
+                "answers": ["Způsobilost firmy produkovat zboží, které obstojí na mezinárodních trzích", "Schopnost firmy snižovat náklady", "Efektivní organizační struktura firmy", "Krátkodobé plánování a kontrola"]
+            },
+            {
+                "question": "Která z následujících strategií se zaměřuje na nízké náklady na výrobu a distribuci?",
+                "answers": ["Strategie minimálních nákladů", "Strategie diferenciace produktu", "Strategie tržní orientace", "Strategie růstu"]
+            },
+            {
+                "question": "Co je hlavním cílem marketingové strategie?",
+                "answers": ["Formulace a modifikace aktivit a produktů pro uspokojivý zisk", "Snížení výrobních nákladů", "Zvýšení kvality výrobků", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Co je krizový management?",
+                "answers": ["Soubor metod a přístupů pro zvládání nepříznivých vlivů způsobených mimořádnými událostmi", "Proces plánování a kontroly finančních toků", "Organizační struktura firmy", "Systém řízení lidských zdrojů"]
+            },
+            {
+                "question": "Co zahrnuje řízení změny?",
+                "answers": ["Příprava, realizace a využívání změn a inovací v podniku", "Kontrola finančních toků", "Plánování a řízení logistických procesů", "Komunikace se zákazníky"]
+            },
+            {
+                "question": "Který z následujících prvků není součástí strategického cyklu?",
+                "answers": ["Návrh organizační struktury", "Situační analýza", "Realizace strategie", "Kontrola strategie"]
+            },
+            {
+                "question": "Co je základním cílem strategického plánování?",
+                "answers": ["Dosažení dlouhodobých cílů organizace", "Zajištění krátkodobých finančních toků", "Optimalizace denní produkce", "Zvýšení kvality výrobků"]
+            },
+            {
+                "question": "Která z následujících strategií se zaměřuje na dosažení dokonalého výkonu v oblasti důležité pro zákazníka?",
+                "answers": ["Strategie diferenciace produktu", "Strategie minimálních nákladů", "Strategie tržní orientace", "Strategie růstu"]
+            },
+            {
+                "question": "Který z následujících prvků není součástí BSC analýzy?",
+                "answers": ["Marketingová perspektiva", "Finanční perspektiva", "Zákaznická perspektiva", "Perspektiva podnikových procesů"]
+            },
+            {
+                "question": "Která z následujících analýz vychází z poznání minulého vývoje a analyzuje budoucí vlivy?",
+                "answers": ["STEP/PEST analýza", "SWOT analýza", "BCG matice", "Porterův model pěti sil"]
+            },
+            {
+                "question": "Co je základním výstupem SWOT analýzy?",
+                "answers": ["Identifikace silných a slabých stránek, příležitostí a hrozeb", "Finanční rozpočet", "Organizační struktura", "Výkonnostní ukazatele"]
+            },
+            {
+                "question": "Které z následujících faktorů jsou součástí PEST analýzy?",
+                "answers": ["Politické, ekonomické, sociální a technické faktory", "Finanční, marketingové, personální a investiční faktory", "Organizační, technologické, tržní a zákaznické faktory", "Ekonomické, legislativní, kulturní a geografické faktory"]
+            },
+            {
+                "question": "Co zahrnuje proces řízení změny?",
+                "answers": ["Příprava, realizace a využívání změn a inovací v podniku", "Kontrola kvality výrobků", "Plánování a řízení logistických procesů", "Komunikace se zákazníky"]
+            },
+            {
+                "question": "Který z následujících přístupů je součástí strategického řízení?",
+                "answers": ["Myšlení ve variantách", "Jednoduché plány", "Krátkodobé cíle", "Denní operativní řízení"]
+            },
+            {
+                "question": "Co je cílem STEP/PEST analýzy?",
+                "answers": ["Analyzovat vlivy vnějšího prostředí na podnik", "Vyhodnotit vnitřní činitele podniku", "Plánovat krátkodobé cíle", "Optimalizovat logistické procesy"]
+            },
+            {
+                "question": "Které z následujících analýz se používají pro strategické plánování?",
+                "answers": ["SWOT, STEP/PEST, BSC, Porterův model 5 konkurenčních sil, BCG matice", "SWOT, ABC, XYZ, Pareto analýza", "PEST, SWOT, ABC, Fishbone analýza", "STEP, SWOT, BCG, TQM analýza"]
+            },
+            {
+                "question": "Co znamená 'vize' v kontextu organizace?",
+                "answers": ["Relativně jasná představa budoucího stavu", "Finanční plán na následující rok", "Krátkodobé cíle a úkoly", "Technické specifikace produktů"]
+            },
+            {
+                "question": "Co je součástí procesu strategického plánování?",
+                "answers": ["Definování cílů, prvky procesu strategického plánování, vlastní strategie", "Denní kontrola docházky zaměstnanců", "Sledování kvality produktů", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Co zahrnuje krizový management?",
+                "answers": ["Metody a přístupy pro zvládání nepříznivých vlivů způsobených mimořádnými událostmi", "Plánování finančních toků", "Organizační struktura firmy", "Systém řízení lidských zdrojů"]
+            },
+            {
+                "question": "Který z následujících faktorů není součástí SWOT analýzy?",
+                "answers": ["Technické trendy", "Silné stránky", "Příležitosti", "Hrozby"]
+            },
+            {
+                "question": "Co zahrnuje STEP/PEST analýza?",
+                "answers": ["Analýza politických, ekonomických, sociálních a technických faktorů", "Analýza finančních výkazů", "Analýza organizační struktury", "Analýza výkonnostních ukazatelů"]
+            },
+            {
+                "question": "Co je hlavním cílem Balanced Scorecard (BSC)?",
+                "answers": ["Převod vizí a strategií do uceleného a srozumitelného souboru měřítek finanční a nefinanční výkonnosti podniku", "Vyhodnocení finančních toků", "Analýza konkurenčního prostředí", "Plánování krátkodobých cílů"]
+            },
+            {
+                "question": "Co je základem Porterova modelu pěti sil?",
+                "answers": ["Analýza konkurenčního prostředí firmy", "Analýza finančních toků", "Organizační struktura firmy", "Systém řízení lidských zdrojů"]
+            },
+            {
+                "question": "Co patří mezi základní prvky strategického managementu?",
+                "answers": ["Myšlení ve variantách, syntéza exaktního a intuitivního myšlení, respektování celosvětových souvislostí", "Denní operativní řízení, krátkodobé cíle, jednoduché plány", "Kontrola kvality výrobků, komunikace se zákazníky, optimalizace logistických procesů", "Finanční plánování, hodnocení zaměstnanců, plánování výroby"]
+            },
+            {
+                "question": "Co je hlavním cílem marketingové strategie?",
+                "answers": ["Formulace a modifikace aktivit a produktů pro uspokojivý zisk", "Snížení výrobních nákladů", "Zvýšení kvality výrobků", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Co je hlavním cílem řízení změny?",
+                "answers": ["Příprava, realizace a využívání změn a inovací v podniku", "Kontrola finančních toků", "Plánování a řízení logistických procesů", "Komunikace se zákazníky"]
+            },
+            {
+                "question": "Co znamená 'strategie' v kontextu organizace?",
+                "answers": ["Dlouhodobý program a způsob činnosti organizace", "Krátkodobé cíle a úkoly", "Rozpočet na nadcházející rok", "Technické specifikace produktů"]
+            },
+            {
+                "question": "Co zahrnuje strategický management?",
+                "answers": ["Výzkum tržních podmínek a potřeb zákazníků", "Operativní řízení výroby", "Denní kontrolu docházky zaměstnanců", "Sledování kvality produktů"]
+            },
+            {
+                "question": "Co je základem BCG matice?",
+                "answers": ["Rozdělení podniku na strategické podnikatelské jednotky (SPJ)", "Analýza konkurenčního prostředí firmy", "Plánování finančních toků", "Organizační struktura firmy"]
+            },
+            {
+                "question": "Co patří mezi vnitřní činitele SWOT analýzy?",
+                "answers": ["Silné a slabé stránky", "Příležitosti a hrozby", "Ekonomické faktory", "Technologické trendy"]
+            },
+            {
+                "question": "Co zahrnuje STEP/PEST analýza?",
+                "answers": ["Politické, ekonomické, sociální a technické faktory", "Finanční, marketingové, personální a investiční faktory", "Organizační, technologické, tržní a zákaznické faktory", "Ekonomické, legislativní, kulturní a geografické faktory"]
+            },
+            {
+                "question": "Co znamená Balanced Scorecard (BSC)?",
+                "answers": ["Systém vyvážených ukazatelů výkonnosti podniku", "Základní premisy strategického řízení", "Finanční plán na následující rok", "Organizační struktura podniku"]
+            },
+            {
+                "question": "Která z následujících položek patří do BCG matice?",
+                "answers": ["Otazníky, hvězdy, dojné krávy, bídní psi", "Ziskové jednotky, investiční jednotky, podpůrné jednotky, nákladové jednotky", "Silné stránky, slabé stránky, příležitosti, hrozby", "Finanční perspektiva, zákaznická perspektiva, perspektiva procesů, perspektiva učení"]
+            },
+            {
+                "question": "Co je hlavním cílem strategického cyklu?",
+                "answers": ["Dosažení dlouhodobých cílů organizace", "Zajištění krátkodobých finančních toků", "Optimalizace denní produkce", "Zvýšení kvality výrobků"]
+            },
+            {
+                "question": "Která z následujících strategií se zaměřuje na nízké náklady na výrobu a distribuci?",
+                "answers": ["Strategie minimálních nákladů", "Strategie diferenciace produktu", "Strategie tržní orientace", "Strategie růstu"]
+            },
+            {
+                "question": "Co zahrnuje krizový management?",
+                "answers": ["Metody a přístupy pro zvládání nepříznivých vlivů způsobených mimořádnými událostmi", "Plánování finančních toků", "Organizační struktura firmy", "Systém řízení lidských zdrojů"]
+            },
+            {
+                "question": "Co zahrnuje proces řízení změny?",
+                "answers": ["Příprava, realizace a využívání změn a inovací v podniku", "Kontrola finančních toků", "Plánování a řízení logistických procesů", "Komunikace se zákazníky"]
+            },
+            {
+                "question": "Co je cílem STEP/PEST analýzy?",
+                "answers": ["Analyzovat vlivy vnějšího prostředí na podnik", "Vyhodnotit vnitřní činitele podniku", "Plánovat krátkodobé cíle", "Optimalizovat logistické procesy"]
+            },
+            {
+                "question": "Co je hlavním cílem Balanced Scorecard (BSC)?",
+                "answers": ["Převod vizí a strategií do uceleného a srozumitelného souboru měřítek finanční a nefinanční výkonnosti podniku", "Vyhodnocení finančních toků", "Analýza konkurenčního prostředí", "Plánování krátkodobých cílů"]
+            },
+            {
+                "question": "K čemu slouží Porterův model pěti sil?",
+                "answers": ["Analýza konkurenčního prostředí", "Finanční plánování", "Organizační struktura", "Řízení lidských zdrojů"]
+            },
+            {
+                "question": "Co znamená Balanced Scorecard (BSC)?",
+                "answers": ["Systém vyvážených ukazatelů výkonnosti podniku", "Základní premisy strategického řízení", "Finanční plán na následující rok", "Organizační struktura podniku"]
+            },
+            {
+                "question": "Co znamená SWOT v analýze?",
+                "answers": ["Strengths, Weaknesses, Opportunities, Threats", "Success, Weakness, Opportunities, Threats", "Strengths, Weaknesses, Obstacles, Threats", "Success, Weakness, Obstacles, Threats"]
+            },
+            {
+                "question": "Co je hlavním účelem BCG matice?",
+                "answers": ["Rozdělení podniku na strategické podnikatelské jednotky a jejich porovnání", "Analýza konkurenčního prostředí firmy", "Plánování finančních toků", "Organizační struktura firmy"]
+            },
+            {
+                "question": "Co zahrnuje proces strategického plánování?",
+                "answers": ["Definování cílů, prvky procesu strategického plánování, vlastní strategie", "Denní kontrola docházky zaměstnanců", "Sledování kvality produktů", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Které z následujících faktorů nejsou součástí SWOT analýzy?",
+                "answers": ["Technické trendy", "Silné stránky", "Příležitosti", "Hrozby"]
+            },
+            {
+                "question": "Co je hlavním cílem marketingové strategie?",
+                "answers": ["Formulace a modifikace aktivit a produktů pro uspokojivý zisk", "Snížení výrobních nákladů", "Zvýšení kvality výrobků", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Co je hlavním účelem Porterova modelu pěti sil?",
+                "answers": ["Analýza konkurenčního prostředí firmy", "Analýza finančních toků", "Organizační struktura firmy", "Systém řízení lidských zdrojů"]
+            },
+            {
+                "question": "Co zahrnuje strategický management?",
+                "answers": ["Výzkum tržních podmínek a potřeb zákazníků", "Operativní řízení výroby", "Denní kontrolu docházky zaměstnanců", "Sledování kvality produktů"]
+            },
+            {
+                "question": "Co je hlavním cílem řízení změny?",
+                "answers": ["Příprava, realizace a využívání změn a inovací v podniku", "Kontrola finančních toků", "Plánování a řízení logistických procesů", "Komunikace se zákazníky"]
+            },
+            {
+                "question": "Co je základním výstupem SWOT analýzy?",
+                "answers": ["Identifikace silných a slabých stránek, příležitostí a hrozeb", "Finanční rozpočet", "Organizační struktura", "Výkonnostní ukazatele"]
+            },
+            {
+                "question": "Co je základním cílem strategického plánování?",
+                "answers": ["Dosažení dlouhodobých cílů organizace", "Zajištění krátkodobých finančních toků", "Optimalizace denní produkce", "Zvýšení kvality výrobků"]
+            },
+            {
+                "question": "Co zahrnuje SWOT analýza?",
+                "answers": ["Identifikace silných a slabých stránek, příležitostí a hrozeb", "Finanční výkazy", "Krátkodobé operativní plány", "Organizační struktura"]
+            },
+            {
+                "question": "K čemu slouží BSC analýza?",
+                "answers": ["Převod vizí a strategií do měřítek výkonnosti podniku", "Analýza finančních toků", "Plánování krátkodobých cílů", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Co je součástí procesu strategického plánování?",
+                "answers": ["Definování cílů, prvky procesu strategického plánování, vlastní strategie", "Denní kontrola docházky zaměstnanců", "Sledování kvality produktů", "Optimalizace logistických procesů"]
+            },
+            {
+                "question": "Co znamená STEP v analýze PEST?",
+                "answers": ["Sociální, Technologické, Ekonomické, Politické faktory", "Strategické, Technické, Ekonomické, Politické faktory", "Sociální, Technické, Ekologické, Politické faktory", "Strategické, Technologické, Ekologické, Politické faktory"]
+            },
+            {
+                "question": "Co zahrnuje BCG matice?",
+                "answers": ["Rozdělení podniku na strategické podnikatelské jednotky a jejich porovnání", "Analýza konkurenčního prostředí firmy", "Plánování finančních toků", "Organizační struktura firmy"]
+            },
+            {
+                "question": "Co je hlavním účelem SWOT analýzy?",
+                "answers": ["Identifikace silných a slabých stránek, příležitostí a hrozeb", "Analýza finančních toků", "Organizační struktura", "Plánování krátkodobých cílů"]
+            },
+            {
+                "question": "Která z následujících položek patří do BCG matice?",
+                "answers": ["Otazníky, hvězdy, dojné krávy, bídní psi", "Ziskové jednotky, investiční jednotky, podpůrné jednotky, nákladové jednotky", "Silné stránky, slabé stránky, příležitosti, hrozby", "Finanční perspektiva, zákaznická perspektiva, perspektiva procesů, perspektiva učení"]
+            },
+            {
+                "question": "Co zahrnuje STEP/PEST analýza?",
+                "answers": ["Politické, ekonomické, sociální a technické faktory", "Finanční, marketingové, personální a investiční faktory", "Organizační, technologické, tržní a zákaznické faktory", "Ekonomické, legislativní, kulturní a geografické faktory"]
+            },
+            {
+                "question": "Co znamená Balanced Scorecard (BSC)?",
+                "answers": ["Systém vyvážených ukazatelů výkonnosti podniku", "Základní premisy strategického řízení", "Finanční plán na následující rok", "Organizační struktura podniku"]
+            },
+            {
+                "question": "Co zahrnuje strategický management?",
+                "answers": ["Výzkum tržních podmínek a potřeb zákazníků", "Operativní řízení výroby", "Denní kontrolu docházky zaměstnanců", "Sledování kvality produktů"]
+            },
+            {
+                "question": "Co zahrnuje proces řízení změny?",
+                "answers": ["Příprava, realizace a využívání změn a inovací v podniku", "Kontrola finančních toků", "Plánování a řízení logistických procesů", "Komunikace se zákazníky"]
+            }
+        ],
+        "3. Organizování": [
+            {
+                "question": "Co je cílem organizování?",
+                "answers": ["Uspořádat prvky v systému k dosažení stanovených cílů", "Snížit náklady na výrobu", "Zvýšit prodejní ceny", "Zlepšit kvalitu výrobků"]
+            },
+            {
+                "question": "Která z následujících možností je základní funkcí managementu?",
+                "answers": ["Organizování", "Financování", "Inovace", "Výroba"]
+            },
+            {
+                "question": "Co je organizační struktura?",
+                "answers": ["Hierarchické řazení organizačních složek ve smyslu podřízenosti, nadřízenosti a rovnocennosti", "Rozpočet na následující rok", "Plán marketingových aktivit", "Systém finanční kontroly"]
+            },
+            {
+                "question": "Která z následujících organizačních struktur je vhodná pro zavedené a velké podniky?",
+                "answers": ["Byrokratická organizační struktura", "Adaptivní organizační struktura", "Projektová organizační struktura", "Maticová organizační struktura"]
+            },
+            {
+                "question": "Která z následujících výhod se týká byrokratické organizační struktury?",
+                "answers": ["Vysoká stabilita organizace", "Rychlá reakce na změny", "Flexibilita a přizpůsobivost", "Vysoká motivace pracovníků"]
+            },
+            {
+                "question": "Která z následujících nevýhod se týká byrokratické organizační struktury?",
+                "answers": ["Anonymita byrokratické organizace poškozuje motivaci pracovníků", "Rychlé rozhodování", "Široké rozpětí řízení", "Neformální komunikace"]
+            },
+            {
+                "question": "Která z následujících vlastností se týká adaptivní organizační struktury?",
+                "answers": ["Minimum předpisů", "Mnoho pravidel", "Úzké rozpětí řízení", "Vysoká stabilita"]
+            },
+            {
+                "question": "Který typ organizační struktury má vysoký počet stupňů řízení?",
+                "answers": ["Strmé (vysoké) organizační struktury", "Ploché organizační struktury", "Maticové organizační struktury", "Projektové organizační struktury"]
+            },
+            {
+                "question": "Který typ organizační struktury má nízký počet stupňů řízení?",
+                "answers": ["Ploché organizační struktury", "Strmé organizační struktury", "Byrokratické organizační struktury", "Divizionální organizační struktury"]
+            },
+            {
+                "question": "Který faktor ovlivňuje počet stupňů řízení?",
+                "answers": ["Velikost podniku", "Počet zákazníků", "Typ produktů", "Marketingové aktivity"]
+            },
+            {
+                "question": "Co je formální organizační struktura?",
+                "answers": ["Organizační struktura dána předpisy a směrnicemi", "Neformální komunikace mezi zaměstnanci", "Spontánní vznik organizačních jednotek", "Síť přátelských vztahů na pracovišti"]
+            },
+            {
+                "question": "Co je neformální organizační struktura?",
+                "answers": ["Volné spojení lidí z různých útvarů společných zájmů", "Hierarchické řazení organizačních složek", "Předpisy a směrnice určující organizační uspořádání", "Organizační struktura viditelná na organizačních schématech"]
+            },
+            {
+                "question": "Která organizační struktura je typická pro malé podniky?",
+                "answers": ["Liniová struktura", "Divizionální struktura", "Funkcionální struktura", "Liniově štábní struktura"]
+            },
+            {
+                "question": "Která organizační struktura má několik nadřízených, každý pro odborné otázky?",
+                "answers": ["Funkcionální (funkční) struktura", "Liniová struktura", "Projektová struktura", "Maticová struktura"]
+            },
+            {
+                "question": "Která organizační struktura kombinuje liniové řízení s pomocnými štáby?",
+                "answers": ["Liniově štábní struktura", "Funkcionální struktura", "Divizionální struktura", "Projektová struktura"]
+            },
+            {
+                "question": "Která organizační struktura vytváří relativně velký a samostatný celek (divizi)?",
+                "answers": ["Divizionální struktura", "Liniová struktura", "Funkcionální struktura", "Liniově štábní struktura"]
+            },
+            {
+                "question": "Co je maticová struktura?",
+                "answers": ["Organizační struktura, kde pracovníci dostávají pokyny jak od vedoucího projektu, tak od útvarového vedoucího", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
+            },
+            {
+                "question": "Co je projektová struktura?",
+                "answers": ["Organizační struktura pro týmové řešení rozsáhlých úkolů nebo projektů do předem dané lhůty", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
+            },
+            {
+                "question": "Která z následujících možností je výhodou centralizace?",
+                "answers": ["Jednotné rozhodování", "Rychlá reakce na změny", "Vysoká motivace pracovníků", "Flexibilita a přizpůsobivost"]
+            },
+            {
+                "question": "Která z následujících možností je nevýhodou centralizace?",
+                "answers": ["Delší doba mezi objevením problému a přijetím rozhodnutí", "Jednotné rozhodování", "Koordinace i kontrola z ústředního místa", "Nižší riziko chyb podřízených"]
+            },
+            {
+                "question": "Co je decentralizace?",
+                "answers": ["Delegování manažerských a rozhodovacích pravomocí na nižší složky", "Souhrn veškerých rozhodovacích pravomocí na vrcholové vedení", "Přísné dodržování předpisů a směrnic", "Formální komunikace mezi jednotlivými úrovněmi řízení"]
+            },
+            {
+                "question": "Která z následujících možností je výhodou decentralizace?",
+                "answers": ["Vyšší motivace samostatných celků", "Jednotné rozhodování", "Koordinace i kontrola z ústředního místa", "Nižší riziko chyb podřízených"]
+            },
+            {
+                "question": "Co je delegování?",
+                "answers": ["Přenesení úkolů a pravomocí na nižší stupeň řízení", "Centralizace rozhodovacích pravomocí", "Formální komunikace mezi jednotlivými úrovněmi řízení", "Přísné dodržování předpisů a směrnic"]
+            },
+            {
+                "question": "Která z následujících možností je vhodná pro delegování?",
+                "answers": ["Administrativní činnosti", "Mzdové a personální činnosti", "Důvěrné záležitosti", "Stížnosti zaměstnanců"]
+            },
+            {
+                "question": "Co zahrnuje dělba práce na základě specializace?",
+                "answers": ["Zvyšování produktivity práce", "Formální komunikace mezi zaměstnanci", "Přenesení úkolů a pravomocí na nižší stupeň řízení", "Centralizace rozhodovacích pravomocí"]
+            },
+            {
+                "question": "Co je optimální rozpětí řízení?",
+                "answers": ["Počet podřízených, který je vedoucí ještě schopen optimálně vést", "Nízký počet stupňů řízení", "Přenesení úkolů a pravomocí na nižší stupeň řízení", "Zvyšování produktivity práce"]
+            },
+            {
+                "question": "Která z následujících možností se týká úzkého rozpětí řízení?",
+                "answers": ["Málo podřízených", "Mnoho podřízených", "Nízké náklady řízení", "Široká kontrola"]
+            },
+            {
+                "question": "Která z následujících možností se týká širokého rozpětí řízení?",
+                "answers": ["Mnoho podřízených", "Málo podřízených", "Větší kontrola", "Vyšší náklady řízení"]
+            },
+            {
+                "question": "Co je adaptabilita v kontextu organizačních pravidel?",
+                "answers": ["Pružnost a přizpůsobovací schopnost", "Přenesení úkolů a pravomocí na nižší stupeň řízení", "Nízký počet pravidel", "Formální komunikace mezi zaměstnanci"]
+            },
+            {
+                "question": "Co je cílem organizačních struktur?",
+                "answers": ["Dosažení stanovených cílů", "Zvýšení nákladů na výrobu", "Snížení počtu zaměstnanců", "Zlepšení kvality výrobků"]
+            },
+            {
+                "question": "Co znamená termín 'pravomoc' v kontextu managementu?",
+                "answers": ["Právo rozhodovat a vydávat příkazy", "Přenesení úkolů na nižší stupeň řízení", "Nízké náklady řízení", "Široká kontrola"]
+            },
+            {
+                "question": "Který typ organizační struktury je charakteristický pro vysokou specializaci a nízkou závislost na konkrétní osobě?",
+                "answers": ["Byrokratická organizační struktura", "Adaptivní organizační struktura", "Projektová organizační struktura", "Maticová organizační struktura"]
+            },
+            {
+                "question": "Co je hlavní nevýhodou byrokratické organizační struktury?",
+                "answers": ["Anonymita poškozuje motivaci pracovníků", "Vysoká stabilita organizace", "Nízká závislost na konkrétních osobách", "Jasné vztahy podřízenosti"]
+            },
+            {
+                "question": "Která z následujících vlastností není typická pro adaptivní organizační strukturu?",
+                "answers": ["Mnoho pravidel", "Delegování a týmová práce", "Široké rozpětí řízení", "Neformální koordinace"]
+            },
+            {
+                "question": "Co je typické pro strmé organizační struktury?",
+                "answers": ["Vysoký počet stupňů řízení", "Nízký počet stupňů řízení", "Široké rozpětí řízení", "Neformální komunikace"]
+            },
+            {
+                "question": "Co je typické pro ploché organizační struktury?",
+                "answers": ["Nízký počet stupňů řízení", "Vysoký počet stupňů řízení", "Úzké rozpětí řízení", "Mnoho pravidel"]
+            },
+            {
+                "question": "Co ovlivňuje počet stupňů řízení v organizační struktuře?",
+                "answers": ["Velikost podniku", "Počet zákazníků", "Marketingové aktivity", "Cena produktů"]
+            },
+            {
+                "question": "Co je charakteristické pro formální organizační strukturu?",
+                "answers": ["Dána předpisy, směrnicemi, nařízená", "Volné spojení lidí z různých útvarů", "Vzniká spontánně", "Síť přátelských vztahů na pracovišti"]
+            },
+            {
+                "question": "Co je charakteristické pro neformální organizační strukturu?",
+                "answers": ["Volné spojení lidí z různých útvarů společných zájmů", "Dána předpisy a směrnicemi", "Hierarchické řazení organizačních složek", "Předpisy a směrnice určující organizační uspořádání"]
+            },
+            {
+                "question": "Která z následujících organizačních struktur má každý pracovník jediného nadřízeného?",
+                "answers": ["Liniová struktura", "Funkcionální struktura", "Projektová struktura", "Maticová struktura"]
+            },
+            {
+                "question": "Který typ organizační struktury zahrnuje dělbu manažerské práce?",
+                "answers": ["Funkcionální (funkční) struktura", "Liniová struktura", "Projektová struktura", "Maticová struktura"]
+            },
+            {
+                "question": "Která organizační struktura kombinuje liniové řízení s pomocnými štáby?",
+                "answers": ["Liniově štábní struktura", "Funkcionální struktura", "Divizionální struktura", "Projektová struktura"]
+            },
+            {
+                "question": "Která organizační struktura vytváří relativně velký a samostatný celek (divizi)?",
+                "answers": ["Divizionální struktura", "Liniová struktura", "Funkcionální struktura", "Liniově štábní struktura"]
+            },
+            {
+                "question": "Co je maticová struktura?",
+                "answers": ["Organizační struktura, kde pracovníci dostávají pokyny jak od vedoucího projektu, tak od útvarového vedoucího", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
+            },
+            {
+                "question": "Co je projektová struktura?",
+                "answers": ["Organizační struktura pro týmové řešení rozsáhlých úkolů nebo projektů do předem dané lhůty", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
+            },
+            {
+                "question": "Která z následujících možností je výhodou centralizace?",
+                "answers": ["Jednotné rozhodování", "Rychlá reakce na změny", "Vysoká motivace pracovníků", "Flexibilita a přizpůsobivost"]
+            },
+            {
+                "question": "Která z následujících možností je nevýhodou centralizace?",
+                "answers": ["Delší doba mezi objevením problému a přijetím rozhodnutí", "Jednotné rozhodování", "Koordinace i kontrola z ústředního místa", "Nižší riziko chyb podřízených"]
+            },
+            {
+                "question": "Co je decentralizace?",
+                "answers": ["Delegování manažerských a rozhodovacích pravomocí na nižší složky", "Souhrn veškerých rozhodovacích pravomocí na vrcholové vedení", "Přísné dodržování předpisů a směrnic", "Formální komunikace mezi jednotlivými úrovněmi řízení"]
+            },
+            {
+                "question": "Která z následujících možností je výhodou decentralizace?",
+                "answers": ["Vyšší motivace samostatných celků", "Jednotné rozhodování", "Koordinace i kontrola z ústředního místa", "Nižší riziko chyb podřízených"]
+            },
+            {
+                "question": "Co je delegování?",
+                "answers": ["Přenesení úkolů a pravomocí na nižší stupeň řízení", "Centralizace rozhodovacích pravomocí", "Formální komunikace mezi jednotlivými úrovněmi řízení", "Přísné dodržování předpisů a směrnic"]
+            },
+            {
+                "question": "Která z následujících možností je vhodná pro delegování?",
+                "answers": ["Administrativní činnosti", "Mzdové a personální činnosti", "Důvěrné záležitosti", "Stížnosti zaměstnanců"]
+            },
+            {
+                "question": "Co zahrnuje dělba práce na základě specializace?",
+                "answers": ["Zvyšování produktivity práce", "Formální komunikace mezi zaměstnanci", "Přenesení úkolů a pravomocí na nižší stupeň řízení", "Centralizace rozhodovacích pravomocí"]
+            },
+            {
+                "question": "Co je optimální rozpětí řízení?",
+                "answers": ["Počet podřízených, který je vedoucí ještě schopen optimálně vést", "Nízký počet stupňů řízení", "Přenesení úkolů a pravomocí na nižší stupeň řízení", "Zvyšování produktivity práce"]
+            },
+            {
+                "question": "Která z následujících možností se týká úzkého rozpětí řízení?",
+                "answers": ["Málo podřízených", "Mnoho podřízených", "Nízké náklady řízení", "Široká kontrola"]
+            },
+            {
+                "question": "Která z následujících možností se týká širokého rozpětí řízení?",
+                "answers": ["Mnoho podřízených", "Málo podřízených", "Větší kontrola", "Vyšší náklady řízení"]
+            },
+            {
+                "question": "Co je adaptabilita v kontextu organizačních pravidel?",
+                "answers": ["Pružnost a přizpůsobovací schopnost", "Přenesení úkolů a pravomocí na nižší stupeň řízení", "Nízký počet pravidel", "Formální komunikace mezi zaměstnanci"]
+            },
+            {
+                "question": "Co je cílem organizačních struktur?",
+                "answers": ["Dosažení stanovených cílů", "Zvýšení nákladů na výrobu", "Snížení počtu zaměstnanců", "Zlepšení kvality výrobků"]
+            },
+            {
+                "question": "Co znamená termín 'pravomoc' v kontextu managementu?",
+                "answers": ["Právo rozhodovat a vydávat příkazy", "Přenesení úkolů na nižší stupeň řízení", "Nízké náklady řízení", "Široká kontrola"]
+            },
+            {
+                "question": "Který typ organizační struktury je charakteristický pro vysokou specializaci a nízkou závislost na konkrétní osobě?",
+                "answers": ["Byrokratická organizační struktura", "Adaptivní organizační struktura", "Projektová organizační struktura", "Maticová organizační struktura"]
+            },
+            {
+                "question": "Co je hlavní nevýhodou byrokratické organizační struktury?",
+                "answers": ["Anonymita poškozuje motivaci pracovníků", "Vysoká stabilita organizace", "Nízká závislost na konkrétních osobách", "Jasné vztahy podřízenosti"]
+            },
+            {
+                "question": "Která z následujících vlastností není typická pro adaptivní organizační strukturu?",
+                "answers": ["Mnoho pravidel", "Delegování a týmová práce", "Široké rozpětí řízení", "Neformální koordinace"]
+            },
+            {
+                "question": "Co je typické pro strmé organizační struktury?",
+                "answers": ["Vysoký počet stupňů řízení", "Nízký počet stupňů řízení", "Široké rozpětí řízení", "Neformální komunikace"]
+            },
+            {
+                "question": "Co je typické pro ploché organizační struktury?",
+                "answers": ["Nízký počet stupňů řízení", "Vysoký počet stupňů řízení", "Úzké rozpětí řízení", "Mnoho pravidel"]
+            },
+            {
+                "question": "Co ovlivňuje počet stupňů řízení v organizační struktuře?",
+                "answers": ["Velikost podniku", "Počet zákazníků", "Marketingové aktivity", "Cena produktů"]
+            },
+            {
+                "question": "Co je charakteristické pro formální organizační strukturu?",
+                "answers": ["Dána předpisy, směrnicemi, nařízená", "Volné spojení lidí z různých útvarů", "Vzniká spontánně", "Síť přátelských vztahů na pracovišti"]
+            },
+            {
+                "question": "Co je charakteristické pro neformální organizační strukturu?",
+                "answers": ["Volné spojení lidí z různých útvarů společných zájmů", "Dána předpisy a směrnicemi", "Hierarchické řazení organizačních složek", "Předpisy a směrnice určující organizační uspořádání"]
+            },
+            {
+                "question": "Která z následujících organizačních struktur má každý pracovník jediného nadřízeného?",
+                "answers": ["Liniová struktura", "Funkcionální struktura", "Projektová struktura", "Maticová struktura"]
+            },
+            {
+                "question": "Který typ organizační struktury zahrnuje dělbu manažerské práce?",
+                "answers": ["Funkcionální (funkční) struktura", "Liniová struktura", "Projektová struktura", "Maticová struktura"]
+            },
+            {
+                "question": "Která organizační struktura kombinuje liniové řízení s pomocnými štáby?",
+                "answers": ["Liniově štábní struktura", "Funkcionální struktura", "Divizionální struktura", "Projektová struktura"]
+            },
+            {
+                "question": "Která organizační struktura vytváří relativně velký a samostatný celek (divizi)?",
+                "answers": ["Divizionální struktura", "Liniová struktura", "Funkcionální struktura", "Liniově štábní struktura"]
+            },
+            {
+                "question": "Co je maticová struktura?",
+                "answers": ["Organizační struktura, kde pracovníci dostávají pokyny jak od vedoucího projektu, tak od útvarového vedoucího", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
+            },
+            {
+                "question": "Co je projektová struktura?",
+                "answers": ["Organizační struktura pro týmové řešení rozsáhlých úkolů nebo projektů do předem dané lhůty", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
+            }
+        ]
+    },
+    "Ekonomie": {
+      "1": [
+        {
+          "question": "Otázka MANG 1.1",
+          "answers": ["Správná odpověď", "Špatná odpověď 1", "Špatná odpověď 2", "Špatná odpověď 3"]
+        }
+      ]
+    },
+    "Informační technologie": {
+      "1": [
+        {
+          "question": "Otázka IT 1.1",
+          "answers": ["Správná odpověď", "Špatná odpověď 1", "Špatná odpověď 2", "Špatná odpověď 3"]
+        }
+      ]
+    }
+  }
