@@ -977,6 +977,296 @@
                 "question": "Co je projektová struktura?",
                 "answers": ["Organizační struktura pro týmové řešení rozsáhlých úkolů nebo projektů do předem dané lhůty", "Organizační struktura s jedním nadřízeným pro každého pracovníka", "Organizační struktura s nízkým počtem pravidel", "Organizační struktura s vysokým počtem stupňů řízení"]
             }
+        ],
+        "4. Řízení lidských zdrojů": [
+            {
+                "question": "Co je cílem řízení lidských zdrojů?",
+                "answers": ["Optimalizace výkonnosti zaměstnanců a organizace", "Zvýšení nákladů na zaměstnance", "Snížení počtu zaměstnanců", "Zvýšení mzdy pro všechny zaměstnance"]
+            },
+            {
+                "question": "Který proces je součástí řízení lidských zdrojů?",
+                "answers": ["Plánování lidských zdrojů", "Zvyšování prodejů", "Marketingové strategie", "Finanční analýzy"]
+            },
+            {
+                "question": "Co zahrnuje plánování lidských zdrojů?",
+                "answers": ["Plánování potřeby pracovníků (počet, profese, rozmístění)", "Analýza finančních toků", "Zvyšování kvality výrobků", "Plánování marketingových kampaní"]
+            },
+            {
+                "question": "Který krok následuje po získávání pracovníků?",
+                "answers": ["Výběr pracovníků", "Propouštění pracovníků", "Zvyšování mezd", "Analýza pracovních míst"]
+            },
+            {
+                "question": "Která z následujících metod není běžně používaná při získávání pracovníků?",
+                "answers": ["Zvyšování platů stávajících zaměstnanců", "Doporučení současného pracovníka", "Přímé oslovení vyhlédnutého jedince", "Spolupráce se vzdělávacími institucemi"]
+            },
+            {
+                "question": "Co je cílem adaptačního procesu nového zaměstnance?",
+                "answers": ["Pomoci zaměstnanci vyrovnat se s novým prostředím a začít plnohodnotně pracovat", "Zvýšení mzdy nového zaměstnance", "Snížení nákladů na školení", "Propagace firmy"]
+            },
+            {
+                "question": "Co zahrnuje proces rozvoje zaměstnanců?",
+                "answers": ["Vzdělávání, kariéra a hodnocení", "Zvyšování platů", "Marketingové kampaně", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním cílem hodnocení pracovníků?",
+                "answers": ["Zjistit, jak pracovník vykonává svou práci a jaké je jeho pracovní chování", "Zvýšení mzdy", "Propagace firmy", "Snižování nákladů"]
+            },
+            {
+                "question": "Co je cílem odměňování pracovníků?",
+                "answers": ["Motivovat a odměňovat pracovníky za jejich úsilí a výsledky", "Snížení nákladů na zaměstnance", "Zvýšení zisků firmy", "Zvýšení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co zahrnuje pracovní smlouva?",
+                "answers": ["Druh práce, místo výkonu práce, den nástupu do práce", "Výše mzdy, doba trvání pracovní smlouvy, výpovědní lhůta", "Marketingové strategie, plánování prodejů, analýza trhu", "Rozpočet firmy, finanční výkazy, účetní uzávěrka"]
+            },
+            {
+                "question": "Co je hlavním důvodem okamžitého zrušení pracovního poměru zaměstnancem?",
+                "answers": ["Nevyplacení mzdy do 15 dnů od její splatnosti", "Zvýšení pracovního úsilí", "Propagace firmy", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Která z následujících možností je zákazem výpovědi?",
+                "answers": ["Výpověď v ochranné době (např. těhotenství)", "Zvýšení mezd", "Propagace firmy", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je formální hodnocení pracovníků?",
+                "answers": ["Pravidelné, racionální a standardizované hodnocení pracovníků", "Neformální komunikace mezi zaměstnanci", "Spontánní hodnocení pracovníků", "Přátelské vztahy na pracovišti"]
+            },
+            {
+                "question": "Který z následujících prvků není součástí metody hodnocení kritických událostí?",
+                "answers": ["Pracovní náplň zaměstnance", "Efektivní výkony pracovníka", "Neefektivní výkony pracovníka", "Záznamy o výkonu pracovníka"]
+            },
+            {
+                "question": "Co je součástí kolektivního vyjednávání?",
+                "answers": ["Jednání zaměstnavatelů a odborů jako sociálních partnerů", "Snížení mezd", "Zvýšení počtu zaměstnanců", "Propagace firmy"]
+            },
+            {
+                "question": "Co zahrnuje sociální péče o zaměstnance?",
+                "answers": ["Bezpečnost a ochranu zdraví při práci, zdravotní péči, kontrolu pracovních podmínek", "Zvyšování mezd", "Propagace firmy", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním cílem analýzy potřeb lidských zdrojů?",
+                "answers": ["Prezentace lidských zdrojů pro investora", "Zvyšování mezd", "Propagace firmy", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je analýza pracovních pozic?",
+                "answers": ["Zjištění potřeby získání nebo propuštění zaměstnanců", "Snížení nákladů na zaměstnance", "Zvýšení mezd", "Propagace firmy"]
+            },
+            {
+                "question": "Co je výstupem analýzy pracovních pozic?",
+                "answers": ["Popis pracovního místa", "Zvýšení mezd", "Snížení nákladů na zaměstnance", "Propagace firmy"]
+            },
+            {
+                "question": "Který z následujících faktorů je důležitý při formulování požadavků nabídky na pracovní pozici?",
+                "answers": ["Požadované nároky na obsazovanou pozici", "Zvýšení mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem výběrového pohovoru?",
+                "answers": ["Vybrat nejvhodnějšího kandidáta na pracovní pozici", "Zvýšení mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je součástí adaptačního procesu nového zaměstnance?",
+                "answers": ["Přidělení gestora, poskytnutí adaptačního balíčku", "Zvýšení mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem vzdělávání pracovníků?",
+                "answers": ["Snížení rozdílu mezi dovednostmi a požadavky na zaměstnance", "Zvýšení mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje rozvoj zaměstnanců?",
+                "answers": ["Rozšíření kariéry, pochopení nových souvislostí, zlepšení dovedností", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem hodnocení pracovníků?",
+                "answers": ["Zjistit, jak pracovník vykonává svou práci a jaké je jeho pracovní chování", "Zvýšení mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je neformální hodnocení pracovníků?",
+                "answers": ["Průběžné hodnocení pracovníka jeho nadřízeným během vykonávání práce", "Pravidelné a standardizované hodnocení", "Spontánní hodnocení pracovníků", "Přátelské vztahy na pracovišti"]
+            },
+            {
+                "question": "Který z následujících faktorů je zahrnut v grafické stupnici pro hodnocení pracovníků?",
+                "answers": ["Kvantita a kvalita práce", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje písemná zpráva jako metoda hodnocení výkonu?",
+                "answers": ["Silné a slabé stránky zaměstnance, výkon v minulosti, existující potenciál", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem odměňování pracovníků?",
+                "answers": ["Motivovat a odměňovat pracovníky za jejich úsilí a výsledky", "Zvyšování zisků firmy", "Snižování nákladů na zaměstnance", "Zvýšení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co zahrnuje systém odměňování?",
+                "answers": ["Odměňování pracovníků za jejich úsilí, výsledky, zkušenosti a schopnosti", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je zahrnuto v celkovém výdělku zaměstnance?",
+                "answers": ["Základní peněžní odměna, proměnlivá peněžní odměna, podíly na vlastnictví, zaměstnanecké výhody", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je nepeněžní odměna?",
+                "answers": ["Uznání, příležitost k rozvoji dovedností, příležitost ke kariéře, kvalita pracovního života", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Který z následujících prvků není zahrnut v povinných náležitostech pracovní smlouvy?",
+                "answers": ["Výše mzdy", "Druh práce", "Místo výkonu práce", "Den nástupu do práce"]
+            },
+            {
+                "question": "Co je podmínkou pro platnost výpovědi?",
+                "answers": ["Musí být dána písemně a doručena druhému účastníku", "Zvýšení mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je zákaz výpovědi?",
+                "answers": ["Výpověď v ochranné době (např. těhotenství)", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je okamžité zrušení pracovního poměru?",
+                "answers": ["Písemné zrušení pracovního poměru z důvodů uvedených v zákoně", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Který z následujících důvodů může být použit zaměstnancem pro okamžité zrušení pracovního poměru?",
+                "answers": ["Nevyplacení mzdy do 15 dnů od její splatnosti", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem řízení lidských zdrojů?",
+                "answers": ["Optimalizace výkonnosti zaměstnanců a organizace", "Zvýšení nákladů na zaměstnance", "Snížení počtu zaměstnanců", "Zvýšení mzdy pro všechny zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje získávání a výběr pracovníků?",
+                "answers": ["Definování požadavků, přilákání uchazečů, vybírání uchazečů", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem adaptačního procesu?",
+                "answers": ["Pomoci zaměstnanci vyrovnat se s novým prostředím a začít plnohodnotně pracovat", "Zvýšení mzdy nového zaměstnance", "Snížení nákladů na školení", "Propagace firmy"]
+            },
+            {
+                "question": "Co zahrnuje rozvoj zaměstnanců?",
+                "answers": ["Vzdělávání, kariéra a hodnocení", "Zvyšování mezd", "Propagace firmy", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním cílem hodnocení pracovníků?",
+                "answers": ["Zjistit, jak pracovník vykonává svou práci a jaké je jeho pracovní chování", "Zvýšení mzdy", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je neformální hodnocení pracovníků?",
+                "answers": ["Průběžné hodnocení pracovníka jeho nadřízeným během vykonávání práce", "Pravidelné a standardizované hodnocení", "Spontánní hodnocení pracovníků", "Přátelské vztahy na pracovišti"]
+            },
+            {
+                "question": "Který z následujících faktorů je zahrnut v grafické stupnici pro hodnocení pracovníků?",
+                "answers": ["Kvantita a kvalita práce", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje písemná zpráva jako metoda hodnocení výkonu?",
+                "answers": ["Silné a slabé stránky zaměstnance, výkon v minulosti, existující potenciál", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem odměňování pracovníků?",
+                "answers": ["Motivovat a odměňovat pracovníky za jejich úsilí a výsledky", "Zvyšování zisků firmy", "Snižování nákladů na zaměstnance", "Zvýšení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co zahrnuje systém odměňování?",
+                "answers": ["Odměňování pracovníků za jejich úsilí, výsledky, zkušenosti a schopnosti", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je zahrnuto v celkovém výdělku zaměstnance?",
+                "answers": ["Základní peněžní odměna, proměnlivá peněžní odměna, podíly na vlastnictví, zaměstnanecké výhody", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je nepeněžní odměna?",
+                "answers": ["Uznání, příležitost k rozvoji dovedností, příležitost ke kariéře, kvalita pracovního života", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Který z následujících prvků je součástí vzniku pracovního poměru?",
+                "answers": ["Pracovní smlouva", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je obsahem pracovní smlouvy?",
+                "answers": ["Druh práce, místo výkonu práce, den nástupu do práce", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje dohoda o skončení pracovního poměru?",
+                "answers": ["Písemná dohoda mezi zaměstnavatelem a zaměstnancem o ukončení pracovního poměru", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je výpověď?",
+                "answers": ["Jednostranný právní úkon, na základě kterého skončí pracovní poměr uplynutím výpovědní doby", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je okamžité zrušení pracovního poměru?",
+                "answers": ["Písemné zrušení pracovního poměru z důvodů uvedených v zákoně", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem řízení lidských zdrojů?",
+                "answers": ["Optimalizace výkonnosti zaměstnanců a organizace", "Zvýšení nákladů na zaměstnance", "Snížení počtu zaměstnanců", "Zvýšení mzdy pro všechny zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje plánování lidských zdrojů?",
+                "answers": ["Plánování potřeby pracovníků (počet, profese, rozmístění)", "Analýza finančních toků", "Zvyšování kvality výrobků", "Plánování marketingových kampaní"]
+            },
+            {
+                "question": "Co zahrnuje získávání a výběr pracovníků?",
+                "answers": ["Definování požadavků, přilákání uchazečů, vybírání uchazečů", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem adaptačního procesu?",
+                "answers": ["Pomoci zaměstnanci vyrovnat se s novým prostředím a začít plnohodnotně pracovat", "Zvýšení mzdy nového zaměstnance", "Snížení nákladů na školení", "Propagace firmy"]
+            },
+            {
+                "question": "Co zahrnuje rozvoj zaměstnanců?",
+                "answers": ["Vzdělávání, kariéra a hodnocení", "Zvyšování mezd", "Propagace firmy", "Snižování počtu zaměstnanců"]
+            },
+            {
+                "question": "Co je hlavním cílem hodnocení pracovníků?",
+                "answers": ["Zjistit, jak pracovník vykonává svou práci a jaké je jeho pracovní chování", "Zvýšení mzdy", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je neformální hodnocení pracovníků?",
+                "answers": ["Průběžné hodnocení pracovníka jeho nadřízeným během vykonávání práce", "Pravidelné a standardizované hodnocení", "Spontánní hodnocení pracovníků", "Přátelské vztahy na pracovišti"]
+            },
+            {
+                "question": "Který z následujících faktorů je zahrnut v grafické stupnici pro hodnocení pracovníků?",
+                "answers": ["Kvantita a kvalita práce", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje písemná zpráva jako metoda hodnocení výkonu?",
+                "answers": ["Silné a slabé stránky zaměstnance, výkon v minulosti, existující potenciál", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je hlavním cílem odměňování pracovníků?",
+                "answers": ["Motivovat a odměňovat pracovníky za jejich úsilí a výsledky", "Zvyšování zisků firmy", "Snižování nákladů na zaměstnance", "Zvýšení počtu zaměstnanců"]
+            },
+            {
+                "question": "Co zahrnuje systém odměňování?",
+                "answers": ["Odměňování pracovníků za jejich úsilí, výsledky, zkušenosti a schopnosti", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je zahrnuto v celkovém výdělku zaměstnance?",
+                "answers": ["Základní peněžní odměna, proměnlivá peněžní odměna, podíly na vlastnictví, zaměstnanecké výhody", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je nepeněžní odměna?",
+                "answers": ["Uznání, příležitost k rozvoji dovedností, příležitost ke kariéře, kvalita pracovního života", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Který z následujících prvků je součástí vzniku pracovního poměru?",
+                "answers": ["Pracovní smlouva", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je obsahem pracovní smlouvy?",
+                "answers": ["Druh práce, místo výkonu práce, den nástupu do práce", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co zahrnuje dohoda o skončení pracovního poměru?",
+                "answers": ["Písemná dohoda mezi zaměstnavatelem a zaměstnancem o ukončení pracovního poměru", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je výpověď?",
+                "answers": ["Jednostranný právní úkon, na základě kterého skončí pracovní poměr uplynutím výpovědní doby", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            },
+            {
+                "question": "Co je okamžité zrušení pracovního poměru?",
+                "answers": ["Písemné zrušení pracovního poměru z důvodů uvedených v zákoně", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
+            }
         ]
     },
     "Ekonomie": {
