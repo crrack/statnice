@@ -4,8 +4,21 @@ async function init() {
   const response = await fetch('data.json');
   const data = await response.json();
 
+  // Přidat klíč parent ke každé otázce
+  addParentKeyToQuestions(data);
+
   populateCategorySelect(data);
   document.getElementById('category').addEventListener('change', () => populateItemSelect(data));
+}
+
+function addParentKeyToQuestions(data) {
+  for (const category in data) {
+    for (const item in data[category]) {
+      data[category][item].forEach(question => {
+        question.parent = item;
+      });
+    }
+  }
 }
 
 function populateCategorySelect(data) {
@@ -41,10 +54,14 @@ let currentQuestionIndex = 0;
 let questions = [];
 let correctCount = 0;
 let incorrectCount = 0;
+let currentCategory = '';
+let currentItem = '';
+let useAllItems = false;
 
 async function startQuiz() {
-  const category = document.getElementById('category').value;
-  const item = document.getElementById('item').value;
+  currentCategory = document.getElementById('category').value;
+  currentItem = document.getElementById('item').value;
+  useAllItems = document.getElementById('allItems').checked;
 
   // Reset počítadel
   correctCount = 0;
@@ -55,8 +72,22 @@ async function startQuiz() {
   const response = await fetch('data.json');
   const data = await response.json();
 
-  questions = data[category][item];
+  if (useAllItems) {
+    // Použít všechny otázky z dané kategorie
+    questions = [];
+    for (const item in data[currentCategory]) {
+      data[currentCategory][item].forEach(question => {
+        questions.push({ ...question, parent: item });
+      });
+    }
+  } else {
+    // Použít otázky pouze z vybrané položky
+    questions = data[currentCategory][currentItem].map(question => ({ ...question, parent: currentItem }));
+  }
+
   questions = shuffleArray(questions);
+
+  document.getElementById('questionCount').textContent = questions.length;
 
   currentQuestionIndex = 0;
   showQuestion();
@@ -74,6 +105,10 @@ function showQuestion() {
   const questionObj = questions[currentQuestionIndex];
   const shuffledAnswers = shuffleArray([...questionObj.answers]);
 
+  const parentElement = document.createElement('h2');
+  parentElement.textContent = questionObj.parent;
+  quizDiv.appendChild(parentElement);
+
   const questionElement = document.createElement('h3');
   questionElement.textContent = questionObj.question;
   quizDiv.appendChild(questionElement);
@@ -88,7 +123,7 @@ function showQuestion() {
 }
 
 function checkAnswer(selectedAnswer, correctAnswer) {
-  const buttons = document.querySelectorAll('#quiz button');
+  const buttons = document.querySelectorAll('#quiz button.answer');
   buttons.forEach(button => {
     if (button.textContent === correctAnswer) {
       button.classList.add('correct');
@@ -106,7 +141,7 @@ function checkAnswer(selectedAnswer, correctAnswer) {
   setTimeout(() => {
     currentQuestionIndex++;
     showQuestion();
-  }, 1300);
+  }, 1000);
 }
 
 function shuffleArray(array) {

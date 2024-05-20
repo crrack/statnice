@@ -10,6 +10,17 @@
         color: #373234;
         background: #C8D7D2;
     }
+    h2 {
+        text-align: center;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    h3 {
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
       
     .container {
         max-width: 920px;
@@ -36,15 +47,55 @@
         width: 100%;
     }
 
+    .allItems {
+        display: flex;
+        margin-top: 10px;
+        padding: 10px 0;
+    }
+
     #start {
         color: white;
         background: #4a816e;;
-        font-size: 18px;
+        font-size: 16px;
         letter-spacing: 1px;
         border: 0;
         margin-bottom: 10px;
         padding: 14px 32px;
         border-radius: 6px;
+    }
+
+    .board {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    #results {
+        display: flex;
+        align-items: center;
+    }
+
+    #results > p {
+        margin: 0 5px 0 0;
+    }
+
+    #results > span {
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48px;
+        height: 40px;
+    }
+
+    #results > #correctCount {
+        background: #22c55e;
+        border-radius: 6px 0 0 6px;
+    }
+
+    #results > #incorrectCount {
+        background: #ef4444;
+        border-radius: 0 6px 6px 0;
     }
       
     #quiz {
@@ -66,22 +117,35 @@
 </head>
 <body>
   <div class="container">
-    <h1>Quiz App</h1><br>
+    <h1>Státnice IM3 UHK 2024</h1><br>
     <label for="category">Vyber kategorii:</label>
     <select id="category"></select>
 
     <label for="item">Vyber položku:</label>
     <select id="item"></select>
 
+    <label for="allItems" class="allItems">
+        <input type="checkbox" id="allItems">
+        Použít všechny otázky v kategorii
+    </label>
+    
+
     <div class="start">
         <button id="start">Start</button>
     </div>
+
+    <div class="board">
+        <div>
+            Počet: <span id="questionCount">0</span>
+        </div>
+
+        <div id="results">
+            <p>Výsledky:</p> <span id="correctCount">0</span><span id="incorrectCount">0</span>
+        </div>
+    </div>
     
 
-    <div id="results">
-        <p>Správné odpovědi: <span id="correctCount">0</span></p>
-        <p>Špatné odpovědi: <span id="incorrectCount">0</span></p>
-    </div>
+    
 
     <div id="quiz"></div>
 
