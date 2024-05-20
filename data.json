@@ -1267,6 +1267,1233 @@
                 "question": "Co je okamžité zrušení pracovního poměru?",
                 "answers": ["Písemné zrušení pracovního poměru z důvodů uvedených v zákoně", "Zvyšování mezd", "Propagace firmy", "Snižování nákladů na zaměstnance"]
             }
+        ],
+        "15. Marketingové řízení": [
+            {
+              "question": "Co znamená marketing?",
+              "answers": ["Komplex činností zaměřených na spotřebitele a trh", "Soubor činností zaměřených na zvyšování zisků", "Proces vývoje nových produktů", "Technika pro analýzu trhu"]
+            },
+            {
+              "question": "Jaká je podstata marketingového řízení?",
+              "answers": ["Ovlivňování potřeb a přání zákazníka", "Optimalizace výroby a distribuce", "Zajištění financování podniku", "Vývoj a inovace produktů"]
+            },
+            {
+              "question": "Která z následujících koncepcí marketingu se zaměřuje na produkci špičkových výrobků?",
+              "answers": ["Výrobková koncepce", "Prodejní koncepce", "Marketingová koncepce", "Společenský marketing"]
+            },
+            {
+              "question": "Co je to strategický marketingový proces?",
+              "answers": ["Plánování, realizace, kontrola", "Analýza, plánování, výroba", "Výzkum, vývoj, distribuce", "Prodej, reklama, podpora prodeje"]
+            },
+            {
+              "question": "K čemu slouží marketingový plán?",
+              "answers": ["Stanovení cílů a postupů pro marketingové aktivity", "Optimalizace výroby a distribuce", "Zajištění financování marketingových aktivit", "Vývoj nových produktů"]
+            },
+            {
+              "question": "Co je to analýza portfolia v marketingu?",
+              "answers": ["Hodnocení atraktivity jednotlivých produktů a jejich perspektivnosti", "Sledování konkurence na trhu", "Vyhodnocení marketingových kampaní", "Analýza finanční situace podniku"]
+            },
+            {
+              "question": "Co je strategická podnikatelská jednotka (SBU)?",
+              "answers": ["Výrobní divize nebo ziskové centrum s vlastním strategickým plánem", "Oddělení pro vývoj nových produktů", "Oddělení pro řízení vztahů se zákazníky", "Oddělení pro marketingovou komunikaci"]
+            },
+            {
+              "question": "Který model se používá pro analýzu portfolia SBU?",
+              "answers": ["BCG model", "SWOT analýza", "PEST analýza", "Porterův model pěti sil"]
+            },
+            {
+              "question": "Co označuje pojem 'dojná kráva' v BCG modelu?",
+              "answers": ["SBU s vysokým podílem na trhu a malým tempem růstu", "SBU s nízkým podílem na trhu a vysokým tempem růstu", "SBU s vysokým podílem na trhu a vysokým tempem růstu", "SBU s nízkým podílem na trhu a malým tempem růstu"]
+            },
+            {
+              "question": "Co zahrnuje marketingové makroprostředí?",
+              "answers": ["Demografické, ekonomické, přírodní, technologické, politické a kulturní faktory", "Podnikové prostředí a konkurenci", "Vnitřní zdroje firmy", "Prodejní a distribuční kanály"]
+            },
+            {
+              "question": "Které faktory patří do marketingového mikroprostředí?",
+              "answers": ["Zákazníci, dodavatelé, distributoři, konkurence, zaměstnanci, veřejnost", "Demografické, ekonomické, přírodní, technologické, politické a kulturní faktory", "Interní procesy a řízení", "Prodejní a distribuční kanály"]
+            },
+            {
+              "question": "Co je součástí marketingového mixu definovaného jako '4P'?",
+              "answers": ["Produkt, cena, místo, propagace", "Výrobek, služba, cena, distribuce", "Reklama, cena, distribuce, kvalita", "Produkt, cena, komunikace, distribuce"]
+            },
+            {
+              "question": "Co je úkolem marketingového informačního systému (MIS)?",
+              "answers": ["Sběr, třídění, analýza, vyhodnocování a prezentace dat", "Vývoj nových produktů", "Optimalizace výroby", "Zajištění finančních zdrojů"]
+            },
+            {
+              "question": "Co je podstatou CRM (Customer Relationship Management)?",
+              "answers": ["Řízení vztahů se zákazníky", "Vývoj nových produktů", "Optimalizace výroby", "Analýza trhu"]
+            },
+            {
+              "question": "Jaký je hlavní úkol operačního CRM?",
+              "answers": ["Zefektivnění klíčových procesů kolem zákazníka", "Optimalizace finančních toků", "Vývoj marketingových strategií", "Analýza konkurenčního prostředí"]
+            },
+            {
+              "question": "Co je cílem kooperačního CRM?",
+              "answers": ["Optimalizace vztahů se zákazníkem a řešení vícekanálové komunikace", "Vývoj nových produktů", "Snížení nákladů na výrobu", "Analýza finančních výsledků"]
+            },
+            {
+              "question": "Jaký je hlavní úkol analytického CRM?",
+              "answers": ["Shromažďování a analýza dat z interakcí se zákazníkem", "Vývoj marketingových kampaní", "Optimalizace prodejních kanálů", "Výzkum a vývoj nových produktů"]
+            },
+            {
+              "question": "Co je podstatou inovace v marketingu?",
+              "answers": ["Uvedení nového produktu na trh", "Optimalizace výrobních procesů", "Zlepšení kvality stávajících produktů", "Analýza konkurenčního prostředí"]
+            },
+            {
+              "question": "Jaký je první krok při zavádění nových produktů na trh?",
+              "answers": ["Vypracování inovační strategie", "Průzkum a tvorba námětů", "Hodnocení a výběr nejlepších námětů", "Analýza uplatnění vybraných námětů na trhu"]
+            },
+            {
+              "question": "Co zahrnuje marketingový plán?",
+              "answers": ["Úvod, běžná marketingová situace, situace na trhu, situace v distribuci, konkurenční situace, rozbor příležitostí, cíle, strategie, výsledky, kontrola", "Vývoj produktu, plánování, výroba, distribuce", "Analýza trhu, konkurence, marketingové komunikace, rozpočet", "Plánování, implementace, hodnocení, revize"]
+            },
+            {
+              "question": "Co je hlavním cílem marketingového řízení?",
+              "answers": ["Ovlivňování poptávky a vztahů se zákazníky", "Optimalizace výroby", "Zajištění financování podniku", "Vývoj nových produktů"]
+            },
+            {
+              "question": "Která koncepce marketingu se zaměřuje na uspokojování potřeb spotřebitelů?",
+              "answers": ["Marketingová koncepce", "Výrobková koncepce", "Prodejní koncepce", "Společenského marketingu"]
+            },
+            {
+              "question": "Co je podstatou společenského marketingu?",
+              "answers": ["Kompromis mezi uspokojováním potřeb zákazníků a veřejnými zájmy", "Optimalizace výroby a distribuce", "Zajištění financování marketingových aktivit", "Vývoj nových produktů"]
+            },
+            {
+              "question": "Jaké fáze zahrnuje strategický marketingový proces?",
+              "answers": ["Plánování, realizace, kontrola", "Analýza, plánování, implementace", "Výzkum, vývoj, komercializace", "Plánování, výroba, distribuce"]
+            },
+            {
+              "question": "Co je hlavním úkolem marketingového plánu?",
+              "answers": ["Stanovení cílů a postupů pro marketingové aktivity", "Optimalizace výroby a distribuce", "Zajištění financování marketingových aktivit", "Vývoj nových produktů"]
+            },
+            {
+              "question": "K čemu slouží analýza portfolia?",
+              "answers": ["Hodnocení atraktivity jednotlivých produktů a jejich perspektivnosti", "Sledování konkurence na trhu", "Vyhodnocení marketingových kampaní", "Analýza finanční situace podniku"]
+            },
+            {
+              "question": "Co označuje termín 'hvězda' v BCG modelu?",
+              "answers": ["SBU s vysokým podílem na trhu a vysokým tempem růstu", "SBU s nízkým podílem na trhu a vysokým tempem růstu", "SBU s vysokým podílem na trhu a malým tempem růstu", "SBU s nízkým podílem na trhu a malým tempem růstu"]
+            },
+            {
+              "question": "Co zahrnuje marketingové makroprostředí?",
+              "answers": ["Demografické, ekonomické, přírodní, technologické, politické a kulturní faktory", "Podnikové prostředí a konkurenci", "Vnitřní zdroje firmy", "Prodejní a distribuční kanály"]
+            },
+            {
+              "question": "Jaké faktory patří do marketingového mikroprostředí?",
+              "answers": ["Zákazníci, dodavatelé, distributoři, konkurence, zaměstnanci, veřejnost", "Demografické, ekonomické, přírodní, technologické, politické a kulturní faktory", "Interní procesy a řízení", "Prodejní a distribuční kanály"]
+            },
+            {
+              "question": "Co je součástí marketingového mixu definovaného jako '4P'?",
+              "answers": ["Produkt, cena, místo, propagace", "Výrobek, služba, cena, distribuce", "Reklama, cena, distribuce, kvalita", "Produkt, cena, komunikace, distribuce"]
+            },
+            {
+              "question": "Co je hlavním úkolem marketingového informačního systému (MIS)?",
+              "answers": ["Sběr, třídění, analýza, vyhodnocování a prezentace dat", "Vývoj nových produktů", "Optimalizace výroby", "Zajištění finančních zdrojů"]
+            },
+            {
+              "question": "Co je podstatou CRM (Customer Relationship Management)?",
+              "answers": ["Řízení vztahů se zákazníky", "Vývoj nových produktů", "Optimalizace výroby", "Analýza trhu"]
+            },
+            {
+              "question": "Jaký je hlavní úkol operačního CRM?",
+              "answers": ["Zefektivnění klíčových procesů kolem zákazníka", "Optimalizace finančních toků", "Vývoj marketingových strategií", "Analýza konkurenčního prostředí"]
+            },
+            {
+              "question": "Co je cílem kooperačního CRM?",
+              "answers": ["Optimalizace vztahů se zákazníkem a řešení vícekanálové komunikace", "Vývoj nových produktů", "Snížení nákladů na výrobu", "Analýza finančních výsledků"]
+            },
+            {
+              "question": "Jaký je hlavní úkol analytického CRM?",
+              "answers": ["Shromažďování a analýza dat z interakcí se zákazníkem", "Vývoj marketingových kampaní", "Optimalizace prodejních kanálů", "Výzkum a vývoj nových produktů"]
+            },
+            {
+              "question": "Co je podstatou inovace v marketingu?",
+              "answers": ["Uvedení nového produktu na trh", "Optimalizace výrobních procesů", "Zlepšení kvality stávajících produktů", "Analýza konkurenčního prostředí"]
+            },
+            {
+              "question": "Jaký je první krok při zavádění nových produktů na trh?",
+              "answers": ["Vypracování inovační strategie", "Průzkum a tvorba námětů", "Hodnocení a výběr nejlepších námětů", "Analýza uplatnění vybraných námětů na trhu"]
+            },
+            {
+              "question": "Co zahrnuje marketingový plán?",
+              "answers": ["Úvod, běžná marketingová situace, situace na trhu, situace v distribuci, konkurenční situace, rozbor příležitostí, cíle, strategie, výsledky, kontrola", "Vývoj produktu, plánování, výroba, distribuce", "Analýza trhu, konkurence, marketingové komunikace, rozpočet", "Plánování, implementace, hodnocení, revize"]
+            },
+            {
+              "question": "Co je hlavním cílem marketingového řízení?",
+              "answers": ["Ovlivňování poptávky a vztahů se zákazníky", "Optimalizace výroby", "Zajištění financování podniku", "Vývoj nových produktů"]
+            },
+            {
+              "question": "Která koncepce marketingu se zaměřuje na uspokojování potřeb spotřebitelů?",
+              "answers": ["Marketingová koncepce", "Výrobková koncepce", "Prodejní koncepce", "Společenského marketingu"]
+            },
+            {
+              "question": "Co je podstatou společenského marketingu?",
+              "answers": ["Kompromis mezi uspokojováním potřeb zákazníků a veřejnými zájmy", "Optimalizace výroby a distribuce", "Zajištění financování marketingových aktivit", "Vývoj nových produktů"]
+            },
+            {
+              "question": "Jaké fáze zahrnuje strategický marketingový proces?",
+              "answers": ["Plánování, realizace, kontrola", "Analýza, plánování, implementace", "Výzkum, vývoj, komercializace", "Plánování, výroba, distribuce"]
+            },
+            {
+              "question": "Co je hlavním úkolem marketingového plánu?",
+              "answers": ["Stanovení cílů a postupů pro marketingové aktivity", "Optimalizace výroby a distribuce", "Zajištění financování marketingových aktivit", "Vývoj nových produktů"]
+            },
+            {
+              "question": "K čemu slouží analýza portfolia?",
+              "answers": ["Hodnocení atraktivity jednotlivých produktů a jejich perspektivnosti", "Sledování konkurence na trhu", "Vyhodnocení marketingových kampaní", "Analýza finanční situace podniku"]
+            },
+            {
+              "question": "Co označuje termín 'hvězda' v BCG modelu?",
+              "answers": ["SBU s vysokým podílem na trhu a vysokým tempem růstu", "SBU s nízkým podílem na trhu a vysokým tempem růstu", "SBU s vysokým podílem na trhu a malým tempem růstu", "SBU s nízkým podílem na trhu a malým tempem růstu"]
+            },
+            {
+              "question": "Co zahrnuje marketingové makroprostředí?",
+              "answers": ["Demografické, ekonomické, přírodní, technologické, politické a kulturní faktory", "Podnikové prostředí a konkurenci", "Vnitřní zdroje firmy", "Prodejní a distribuční kanály"]
+            },
+            {
+              "question": "Jaké faktory patří do marketingového mikroprostředí?",
+              "answers": ["Zákazníci, dodavatelé, distributoři, konkurence, zaměstnanci, veřejnost", "Demografické, ekonomické, přírodní, technologické, politické a kulturní faktory", "Interní procesy a řízení", "Prodejní a distribuční kanály"]
+            },
+            {
+              "question": "Co je součástí marketingového mixu definovaného jako '4P'?",
+              "answers": ["Produkt, cena, místo, propagace", "Výrobek, služba, cena, distribuce", "Reklama, cena, distribuce, kvalita", "Produkt, cena, komunikace, distribuce"]
+            },
+            {
+              "question": "Co je hlavním úkolem marketingového informačního systému (MIS)?",
+              "answers": ["Sběr, třídění, analýza, vyhodnocování a prezentace dat", "Vývoj nových produktů", "Optimalizace výroby", "Zajištění finančních zdrojů"]
+            },
+            {
+              "question": "Co je podstatou CRM (Customer Relationship Management)?",
+              "answers": ["Řízení vztahů se zákazníky", "Vývoj nových produktů", "Optimalizace výroby", "Analýza trhu"]
+            },
+            {
+              "question": "Jaký je hlavní úkol operačního CRM?",
+              "answers": ["Zefektivnění klíčových procesů kolem zákazníka", "Optimalizace finančních toků", "Vývoj marketingových strategií", "Analýza konkurenčního prostředí"]
+            }
+        ],
+        "16. Chování zákazníků": [
+            {
+              "question": "Co je automatické nákupní chování?",
+              "answers": [
+                "Nákup základních potravin a předmětů každodenní potřeby bez rozhodování",
+                "Nákup složitých a drahých produktů s dlouhým rozhodovacím procesem",
+                "Nákup neznámého a inovovaného zboží s omezeným rozhodováním",
+                "Nákup zboží po konzultaci s odborníky a poradci"
+              ]
+            },
+            {
+              "question": "Jaké role existují při řešení složitých problémů?",
+              "answers": [
+                "Iniciátor, poradce, investor, nákupčí, konečný uživatel",
+                "Kupující, dodavatel, kontrolor, manager, zákazník",
+                "Prodejce, zákazník, konzultant, analytik, technik",
+                "Plánovač, nákupčí, spotřebitel, administrátor, vedoucí"
+              ]
+            },
+            {
+              "question": "Která fáze nákupního rozhodování organizace zahrnuje specifikaci nákupních a dalších kritérií?",
+              "answers": [
+                "Sběr informací",
+                "Identifikace problému",
+                "Vyhodnocení získaných informací",
+                "Ponákupní vyhodnocení"
+              ]
+            },
+            {
+              "question": "Co je charakteristické pro modifikovanou koupi u organizací?",
+              "answers": [
+                "Nákup hrubě mleté pšenice pro cereální výrobky",
+                "Nákup nové plynové pece",
+                "Nákup pšeničné a žitné mouky pro pekárnu",
+                "Nákup kancelářských potřeb"
+              ]
+            },
+            {
+              "question": "Jaké jsou hlavní zdroje informací při nákupním chování organizací?",
+              "answers": [
+                "Veletrhy a výstavy, odborné časopisy, internet",
+                "Televizní reklamy, sociální média, osobní doporučení",
+                "Běžné obchody, nákupní centra, billboardy",
+                "Telefonní marketing, letáky, firemní weby"
+              ]
+            },
+            {
+              "question": "Jaké typy klientů existují podle způsobu jednání s nimi?",
+              "answers": [
+                "Zvídavý, lhostejný, odmítavý, bojácný, ví všechno nejlépe, dobromyslný, hrubý",
+                "Rychlý, pomalý, náročný, nerozhodný, konzultant, analytik, skeptik",
+                "Plánovač, nákupčí, spotřebitel, administrátor, vedoucí, kritik",
+                "Profesionál, amatér, laik, expert, nováček, pokročilý, specialista"
+              ]
+            },
+            {
+              "question": "Co znamená segmentace trhu podle geografického hlediska?",
+              "answers": [
+                "Rozdělení trhu podle zeměpisných jednotek jako obce, městské části, okresy",
+                "Rozdělení trhu podle věku, pohlaví a vzdělání spotřebitelů",
+                "Rozdělení trhu podle společenské třídy a životního stylu",
+                "Rozdělení trhu podle chování zákazníků"
+              ]
+            },
+            {
+              "question": "Jaké jsou vlastnosti správně provedené segmentace trhu?",
+              "answers": [
+                "Stejnorodý segment, podobné reakce na marketingové stimuly, dostatečná velikost, snadná dosažitelnost, vhodný tržní potenciál",
+                "Různorodý segment, odlišné reakce na marketingové stimuly, malá velikost, těžká dosažitelnost, vysoký tržní potenciál",
+                "Náhodně vybraný segment, nezávislé reakce na marketingové stimuly, minimální velikost, obtížná dosažitelnost, nízký tržní potenciál",
+                "Segment s vysokým růstem, odlišné marketingové stimuly, různorodé chování, střední velikost, snadná obsluha"
+              ]
+            },
+            {
+              "question": "Jaká je hlavní nevýhoda nediferencovaného marketingu?",
+              "answers": [
+                "Těžko vyrobit produkt, který uspokojí široké spektrum zákazníků",
+                "Vysoké náklady na výzkum, vývoj a propagaci",
+                "Nízká míra uspokojení potřeb zákazníků",
+                "Riziko odmítnutí produktu a ztráta trhu"
+              ]
+            },
+            {
+              "question": "Co je hlavním cílem marketingového výzkumu?",
+              "answers": [
+                "Porozumět přáním a tužbám vybraného segmentu nebo jednotlivce",
+                "Zvýšit prodeje a zisk firmy",
+                "Najít nové trhy a expandovat do nich",
+                "Snížit náklady na výrobu a distribuci"
+              ]
+            },
+            {
+              "question": "Co zahrnuje fáze formulace problému v procesu marketingového výzkumu?",
+              "answers": [
+                "Jasné vymezení problému, který má výzkum řešit",
+                "Analýzu a výběr datových zdrojů",
+                "Sběr a analýzu dat",
+                "Prezentaci závěrečných výsledků výzkumu"
+              ]
+            },
+            {
+              "question": "Jaký je první krok při segmentaci trhu?",
+              "answers": [
+                "Hodnocení poptávky",
+                "Volba cílového trhu",
+                "Vypracování nabídky",
+                "Analýza konkurence"
+              ]
+            },
+            {
+              "question": "Jaké jsou hlavní fáze rozhodovacího procesu spotřebitelů?",
+              "answers": [
+                "Identifikace problému, sběr informací, vyhodnocení možností, rozhodnutí o koupi, ponákupní vyhodnocení",
+                "Plánování, výzkum, analýza trhu, implementace, zpětná vazba",
+                "Vyhledání informací, porovnání cen, konzultace s odborníky, koupě, reklamace",
+                "Získání nabídky, vyhodnocení možností, uzavření smlouvy, dodání zboží, servis"
+              ]
+            },
+            {
+              "question": "Co je behaviorální segmentace trhu?",
+              "answers": [
+                "Rozdělení trhu podle chování zákazníků",
+                "Rozdělení trhu podle věku a pohlaví",
+                "Rozdělení trhu podle geografických jednotek",
+                "Rozdělení trhu podle společenské třídy"
+              ]
+            },
+            {
+              "question": "Jaké je typické nákupní chování při koupi základních potravin?",
+              "answers": [
+                "Automatické nákupní chování",
+                "Řešení omezeného problému",
+                "Řešení složitého problému",
+                "Modifikovaná koupě"
+              ]
+            },
+            {
+              "question": "Která z následujících rolí nepatří mezi role při řešení složitých problémů?",
+              "answers": [
+                "Kontrolor",
+                "Iniciátor",
+                "Poradce",
+                "Investor"
+              ]
+            },
+            {
+              "question": "Co je typické pro dlouhodobého zákazníka?",
+              "answers": [
+                "Vyjednávání o cenách a dodacích podmínkách trvá dlouho",
+                "Okamžitý příjem pro prodejce",
+                "Schvalovací proces je celkem krátký",
+                "Rozhoduje se rychle a bez váhání"
+              ]
+            },
+            {
+              "question": "Jaký typ zákazníka se rád informuje o produktu a trpělivě naslouchá?",
+              "answers": [
+                "Zvídavý zákazník",
+                "Lhostejný klient",
+                "Odmítavý klient",
+                "Bojácný zákazník"
+              ]
+            },
+            {
+              "question": "Který typ klienta bývá často nezdvořilý a znuděně sleduje prodejcův monolog?",
+              "answers": [
+                "Lhostejný klient",
+                "Zvídavý zákazník",
+                "Odmítavý klient",
+                "Hrubý klient"
+              ]
+            },
+            {
+              "question": "Co je důležité při jednání s dobromyslným zákazníkem?",
+              "answers": [
+                "Profesionalita a upřímnost",
+                "Dynamická prezentace",
+                "Tlak na rychlé rozhodnutí",
+                "Autoritativní přístup"
+              ]
+            },
+            {
+              "question": "Jaký je hlavní cíl diferencovaného marketingu?",
+              "answers": [
+                "Uspokojení potřeb širokého spektra zákazníků",
+                "Snížení nákladů na výzkum a vývoj",
+                "Získání dominantního postavení na malém trhu",
+                "Maximalizace zisku s minimálními investicemi"
+              ]
+            },
+            {
+              "question": "Co znamená pojem 'koncentrovaný marketing'?",
+              "answers": [
+                "Zaměření na malý trh s cílem získat dominantní postavení",
+                "Plošné pokrytí celého trhu s jednotnou strategií",
+                "Výběr několika segmentů současně",
+                "Cílení na všechny možné zákazníky"
+              ]
+            },
+            {
+              "question": "Jaká je hlavní výhoda nediferencovaného marketingu?",
+              "answers": [
+                "Jednotná strategie pro celý trh",
+                "Vysoké náklady na výzkum a vývoj",
+                "Riziko odmítnutí produktu",
+                "Složitý proces segmentace"
+              ]
+            },
+            {
+              "question": "Jaký je postup při správném marketingovém výzkumu?",
+              "answers": [
+                "Potřeba výzkumu, formulace problému, cíle výzkumu, stanovení informačních potřeb, metody získávání dat, návrh datových formulářů, vzorkování, získávání dat, analýza dat, prezentace výsledků",
+                "Plánování, realizace, vyhodnocení, zpětná vazba",
+                "Výzkum trhu, výběr cílového segmentu, vývoj produktu, marketingová kampaň",
+                "Analýza trhu, definice problému, sběr dat, analýza výsledků, implementace řešení"
+              ]
+            },
+            {
+              "question": "Co je cílem první fáze segmentace trhu?",
+              "answers": [
+                "Hodnocení poptávky a analýza trhu",
+                "Výběr cílového trhu",
+                "Vypracování nabídky",
+                "Analýza konkurence"
+              ]
+            },
+            {
+              "question": "Co zahrnuje fáze analýzy dat v procesu marketingového výzkumu?",
+              "answers": [
+                "Vyhodnocení a interpretaci získaných dat",
+                "Sběr a organizaci dat",
+                "Formulaci hypotéz a cílů výzkumu",
+                "Prezentaci závěrečné zprávy"
+              ]
+            },
+            {
+              "question": "Jaký je hlavní cíl koncentrovaného marketingu?",
+              "answers": [
+                "Získat dominantní postavení na malém trhu",
+                "Pokrytí celého trhu s jednotnou strategií",
+                "Uspokojení potřeb širokého spektra zákazníků",
+                "Maximalizace zisku s minimálními investicemi"
+              ]
+            },
+            {
+              "question": "Co zahrnuje fáze vzorkování v procesu marketingového výzkumu?",
+              "answers": [
+                "Výběr reprezentativního vzorku populace",
+                "Formulaci výzkumných otázek",
+                "Analýzu shromážděných dat",
+                "Prezentaci výsledků výzkumu"
+              ]
+            },
+            {
+              "question": "Jaké jsou hlavní typy nákupního chování u organizací?",
+              "answers": [
+                "Přímá koupě, modifikovaná koupě, nové nákupní rozhodnutí",
+                "Automatické nákupní chování, složité nákupní chování, omezené nákupní chování",
+                "Kompulsivní nákupní chování, racionální nákupní chování, emocionální nákupní chování",
+                "Nákup na základě referencí, nákup na základě marketingových kampaní, nákup na základě recenzí"
+              ]
+            },
+            {
+              "question": "Co je přímá koupě u organizací?",
+              "answers": [
+                "Opakovaný nákup stejného zboží bez změn",
+                "Nákup inovovaného zboží",
+                "Nákup složitých a drahých produktů",
+                "Nákup zboží po konzultaci s odborníky"
+              ]
+            },
+            {
+              "question": "Jaké jsou fáze procesu nákupního rozhodování organizace?",
+              "answers": [
+                "Identifikace problému, sběr informací, vyhodnocení, koupě, ponákupní vyhodnocení",
+                "Analýza trhu, výběr dodavatelů, uzavření smlouvy, dodání zboží, servis",
+                "Sběr dat, analýza výsledků, formulace strategie, implementace, zpětná vazba",
+                "Vyhledání informací, porovnání nabídek, rozhodnutí, nákup, hodnocení"
+              ]
+            },
+            {
+              "question": "Co je hlavní charakteristikou automatického nákupního chování?",
+              "answers": [
+                "Rychlé a bezmyšlenkovité rozhodování",
+                "Dlouhý a pečlivý výběr",
+                "Porovnání různých možností",
+                "Konzultace s odborníky"
+              ]
+            },
+            {
+              "question": "Jaká je role konečného uživatele při řešení složitých problémů?",
+              "answers": [
+                "Konečný spotřebitel produktu",
+                "Ten, kdo iniciuje nákup",
+                "Osoba zodpovědná za financování",
+                "Poradce při rozhodování"
+              ]
+            },
+            {
+              "question": "Co je typické pro bojácného zákazníka?",
+              "answers": [
+                "Nervózní a snadno ovlivnitelný",
+                "Nezdvořilý a arogantní",
+                "Autoritativní a sebevědomý",
+                "Upřímný a seriózní"
+              ]
+            },
+            {
+              "question": "Jaké jsou hlavní kritéria při hodnocení dodavatelů organizací?",
+              "answers": [
+                "Cena, kvalita výrobku, dodací podmínky, servis, image firmy",
+                "Značka, reklamní kampaň, zákaznické recenze, lokalizace firmy",
+                "Technická specifikace, popularita produktu, náklady na marketing, logistika",
+                "Velikost firmy, geografická poloha, finanční stabilita, historie společnosti"
+              ]
+            },
+            {
+              "question": "Jaký typ zákazníka je přístupný a zdvořilý, ale klade důraz na profesionalitu?",
+              "answers": [
+                "Dobromyslný zákazník",
+                "Zvídavý zákazník",
+                "Odmítavý klient",
+                "Hrubý klient"
+              ]
+            },
+            {
+              "question": "Jaký je hlavní rozdíl mezi nákupním chováním spotřebitelů a organizací?",
+              "answers": [
+                "Organizace mají složitější a delší rozhodovací proces",
+                "Spotřebitelé se rozhodují kolektivně",
+                "Organizace se zaměřují pouze na cenu",
+                "Spotřebitelé používají pouze jeden zdroj informací"
+              ]
+            },
+            {
+              "question": "Co je hlavním účelem marketingového výzkumu?",
+              "answers": [
+                "Porozumění zákazníkům, trhům a marketingové efektivnosti",
+                "Zvýšení prodejů a zisku firmy",
+                "Hledání nových trhů a expanze",
+                "Snížení výrobních nákladů"
+              ]
+            },
+            {
+              "question": "Co znamená nediferencovaný marketing?",
+              "answers": [
+                "Plošné pokrytí celého trhu s jednotnou strategií",
+                "Zaměření na malý trh s cílem získat dominantní postavení",
+                "Výběr několika segmentů současně",
+                "Cílení na všechny možné zákazníky"
+              ]
+            },
+            {
+              "question": "Jaké jsou fáze procesu segmentace trhu?",
+              "answers": [
+                "Hodnocení poptávky, segmentace trhu, volba cílového trhu, vypracování nabídky",
+                "Plánování, výzkum, analýza trhu, implementace",
+                "Identifikace problému, formulace strategie, sběr dat, analýza výsledků",
+                "Vyhledání informací, porovnání nabídek, rozhodnutí, implementace"
+              ]
+            },
+            {
+              "question": "Jaký je hlavní cíl segmentace trhu?",
+              "answers": [
+                "Vytvoření stejnorodých skupin zákazníků",
+                "Zvýšení prodejů a zisku firmy",
+                "Hledání nových trhů a expanze",
+                "Snížení výrobních nákladů"
+              ]
+            },
+            {
+              "question": "Jaké jsou vlastnosti správné segmentace trhu?",
+              "answers": [
+                "Měřitelnost, dostupnost, podstatnost, akceschopnost",
+                "Různorodost, nezávislost, minimální velikost, obtížná dosažitelnost",
+                "Vysoký růst, odlišné stimuly, různorodé chování, střední velikost",
+                "Homogenita, reakce na marketingové stimuly, malá velikost, snadná dosažitelnost"
+              ]
+            },
+            {
+              "question": "Jaké jsou hlavní fáze marketingového výzkumu?",
+              "answers": [
+                "Potřeba výzkumu, formulace problému, cíle výzkumu, stanovení informačních potřeb, metody získávání dat, návrh formulářů, vzorkování, získávání dat, analýza dat, prezentace výsledků",
+                "Plánování, realizace, vyhodnocení, zpětná vazba",
+                "Výzkum trhu, výběr cílového segmentu, vývoj produktu, marketingová kampaň",
+                "Analýza trhu, definice problému, sběr dat, analýza výsledků, implementace řešení"
+              ]
+            },
+            {
+              "question": "Co zahrnuje fáze vyhodnocení získaných informací při nákupním rozhodování organizace?",
+              "answers": [
+                "Porovnání nabídek dodavatelů, zvážení rozpočtu, vyhodnocení variant",
+                "Identifikaci problému, sběr informací, navazování kontaktů",
+                "Dojednání smluvních podmínek, uzavření kontraktu, realizace",
+                "Spokojenost s dodavatelem, reklamace, servis"
+              ]
+            },
+            {
+              "question": "Jaké jsou hlavní zdroje informací při rozhodování organizací?",
+              "answers": [
+                "Nabídka obchodních zástupců, veletrhy, přímá nabídka, internet",
+                "Osobní doporučení, sociální média, televize, rozhlas",
+                "Běžné obchody, nákupní centra, billboardy, letáky",
+                "Telefonní marketing, letáky, firemní weby, sociální sítě"
+              ]
+            },
+            {
+              "question": "Co je hlavním kritériem při výběru dodavatele organizací?",
+              "answers": [
+                "Cena a kvalita výrobku",
+                "Značka a popularita",
+                "Zákaznické recenze",
+                "Lokalizace firmy"
+              ]
+            }
+        ],
+        "17. Marketingový mix (tvorba a řízení)": [
+            {
+              "question": "Co je produkt v rámci marketingu?",
+              "answers": ["Cokoliv, co lze nabídnout na trhu, upoutá pozornost a uspokojí potřebu", "Pouze fyzický předmět nabízený k prodeji", "Reklamní kampaň zaměřená na konkrétní segment trhu", "Služba poskytovaná výhradně firmou"]
+            },
+            {
+              "question": "Jak lze rozdělit výrobky podle způsobu užití?",
+              "answers": ["Na spotřební zboží a průmyslové výrobky", "Na základní a luxusní výrobky", "Na domácí a zahraniční výrobky", "Na jednorázové a opakovaně použitelné výrobky"]
+            },
+            {
+              "question": "Co zahrnuje kvalita produktu?",
+              "answers": ["Fyzické vlastnosti, výkonnost a schopnost plnit očekávání", "Pouze vizuální atraktivitu a balení", "Reklamní kampaň a distribuci", "Cenu a dostupnost produktu"]
+            },
+            {
+              "question": "Jaké jsou vlastnosti kvalitního produktu podle zákazníků?",
+              "answers": ["Snadná dostupnost, snadné ovládání, přijatelná cena a důvěryhodnost značky", "Luxusní balení, vysoká cena, omezená dostupnost", "Agresivní marketing, rychlý prodej, krátká životnost", "Inovativní design, vysoké výrobní náklady, omezený trh"]
+            },
+            {
+              "question": "Co je značka v marketingu?",
+              "answers": ["Jméno, znak a barva, které označují výrobek nebo službu a odlišují je od konkurenčních", "Pouze logo společnosti", "Marketingová strategie pro zviditelnění produktu", "Název produktu bez dalších vizuálních prvků"]
+            },
+            {
+              "question": "Jaký je význam designu produktu?",
+              "answers": ["Zlepšení funkčnosti, snížení výrobních nákladů a dosažení konkurenční výhody", "Pouze estetická hodnota bez praktického využití", "Výhradně k zlepšení balení produktu", "Snížení ceny produktu na trhu"]
+            },
+            {
+              "question": "Jaké jsou funkce obalu produktu?",
+              "answers": ["Ochrana výrobku, usnadnění manipulace a poskytování informací o produktu", "Zvýšení ceny produktu", "Zajištění estetické přitažlivosti bez další funkce", "Marketingové zviditelnění bez ochrany produktu"]
+            },
+            {
+              "question": "K čemu slouží etiketa na výrobku?",
+              "answers": ["K identifikaci výrobku a označení jeho kvality", "K propagaci výrobce", "K poskytnutí reklamy", "K zajištění balení výrobku"]
+            },
+            {
+              "question": "Co zahrnuje fáze zavádění na trh v životním cyklu produktu?",
+              "answers": ["Vysoké podnikatelské riziko, vysoké náklady a malé nebo žádné výnosy", "Stagnaci tempa růstu objemu prodeje a zisku", "Relativně rychlý růst objemu prodeje", "Úplný úpadek produktu na trhu"]
+            },
+            {
+              "question": "Jaká je charakteristika fáze růstu v životním cyklu produktu?",
+              "answers": ["Roste dynamika prodeje a tvorba zisku, zdokonalování a vývoj stávajících výrobků", "Vysoké náklady a malé nebo žádné výnosy", "Stagnace tempa růstu objemu prodeje a zisku", "Odbyt prudce klesá, výrobek se stává nerentabilním"]
+            },
+            {
+              "question": "Co znamená pojem 'cyklus-recyklus' v životním cyklu produktu?",
+              "answers": ["Křivka sezónních výrobků, kde fáze růstu se pravidelně opakuje", "Trvalý pokles prodeje bez možnosti oživení", "Náhlý vzestup a pád produktu na trhu", "Jednorázový růst následující po zavedení produktu"]
+            },
+            {
+              "question": "Co představuje cena v marketingovém mixu?",
+              "answers": ["Částku, za kterou jsou výrobek nebo služba nabízeny na trhu", "Náklady na výrobu produktu", "Marketingové náklady na reklamu", "Distribuční náklady produktu"]
+            },
+            {
+              "question": "Co je cenová politika?",
+              "answers": ["Způsob rozhodování o tvorbě ceny, podřízený celkové firemní strategii", "Náhodné stanovení ceny podle trhu", "Způsob distribuce produktu", "Reklamní strategie pro zvýšení povědomí o produktu"]
+            },
+            {
+              "question": "Jaké jsou vnitřní faktory ovlivňující výši ceny?",
+              "answers": ["Cíle firmy, organizace cenové politiky, marketingový mix, diferenciace výrobků", "Poptávka, konkurence, distribuční síť, ekonomické podmínky", "Psychologické vlivy, značka, reklama", "Distribuce, design, balení"]
+            },
+            {
+              "question": "Co je vnější faktor ovlivňující výši ceny?",
+              "answers": ["Poptávka", "Organizace cenové politiky", "Marketingový mix", "Cíle firmy"]
+            },
+            {
+              "question": "Jaký je způsob stanovení ceny na základě poptávky?",
+              "answers": ["Stanovení ceny na základě odhadu objemu prodeje v závislosti na různé výši ceny", "Stanovení ceny na základě nákladů", "Stanovení ceny na základě konkurence", "Stanovení ceny na základě marketingových cílů firmy"]
+            },
+            {
+              "question": "Co znamená metoda stanovení ceny na základě nákladů?",
+              "answers": ["Vyčíslení nákladů a zisku na daný výrobek", "Odhad objemu prodeje v závislosti na různé výši ceny", "Analýza konkurence a jejich cen", "Zjištění hodnoty, kterou danému zboží přisoudí spotřebitel"]
+            },
+            {
+              "question": "Jaký je první krok v procesu tvorby cenové strategie?",
+              "answers": ["Vymezení odbytového trhu", "Výzkum spotřebitelského chování", "Analýza konkurence", "Určení ceny"]
+            },
+            {
+              "question": "Co zahrnuje výzkum spotřebitelského chování v rámci cenové strategie?",
+              "answers": ["Zjišťování nákupních motivů zákazníků, jejich rozmístění a citlivost vůči cenám", "Analýzu konkurence a jejich cenové strategie", "Stanovení nákladů ve vztahu k poptávce", "Určení ceny produktu"]
+            },
+            {
+              "question": "Co je cílem propagační tvorby cen?",
+              "answers": ["Přilákání zákazníků prostřednictvím slev a sezónních cen", "Stanovení vysokých cen pro prémiové produkty", "Udržení stabilní cenové hladiny", "Snížení cen konkurentů"]
+            },
+            {
+              "question": "Co znamená diskriminační tvorba cen?",
+              "answers": ["Stanovení různých cen pro různé zákaznické segmenty nebo formy produktu", "Stejné ceny pro všechny zákazníky bez ohledu na segment", "Stanovení cen podle nákladů na výrobu", "Stanovení cen na základě geografických lokalit"]
+            },
+            {
+              "question": "Jaké je riziko spojené se snížením ceny?",
+              "answers": ["Past nízké kvality, kdy zákazníci předpokládají nižší kvalitu produktů", "Zvýšení nákladů na výrobu", "Ztráta konkurenceschopnosti na trhu", "Zvýšení poptávky na úkor kvality"]
+            },
+            {
+              "question": "Co je komunikační strategie?",
+              "answers": ["Série kroků zahrnující situační analýzu, stanovení cílů, nástroje komunikačního mixu, tvorbu rozpočtu, realizaci a vyhodnocení", "Pouze reklama na produkt", "Distribuční strategie pro zvýšení prodeje", "Cenová politika pro dosažení zisku"]
+            },
+            {
+              "question": "Jaká je nejdůležitější vlastnost reklamy?",
+              "answers": ["Veřejná prezentace, která dává možnost všeobecného uznání produktu", "Vysoké výrobní náklady", "Nákladná marketingová kampaň", "Přímý kontakt se zákazníkem"]
+            },
+            {
+              "question": "Co je reklamní strategie zaměřená na životní cyklus produktu?",
+              "answers": ["Reklama zaváděcí, přesvědčovací a připomínající", "Reklama na jednorázové produkty", "Reklama na prémiové produkty", "Reklama na sezónní výrobky"]
+            },
+            {
+              "question": "Co je výrobková reklama?",
+              "answers": ["Snaha odlišit výrobek od konkurence různými způsoby", "Reklama zaměřená na firmu jako celek", "Reklama na sezónní výrobky", "Reklama na jednorázové produkty"]
+            },
+            {
+              "question": "Co je institucionální reklama?",
+              "answers": ["Zdůraznění předností firmy a budování důvěry spotřebitelů", "Reklama zaměřená pouze na produkt", "Reklama na krátkodobé akce", "Reklama na luxusní produkty"]
+            },
+            {
+              "question": "Jaký je hlavní cíl zaváděcí reklamy?",
+              "answers": ["Uvědomit spotřebitele o novém produktu na trhu", "Připomenout existující produkt", "Upevnit pozici produktu na trhu", "Zvýšit prodej sezónních výrobků"]
+            },
+            {
+              "question": "Co je přesvědčovací reklama?",
+              "answers": ["Reklama ve druhé fázi životního cyklu produktu pro upevnění pozice na trhu", "Reklama zaměřená na nové produkty", "Reklama na luxusní výrobky", "Reklama na jednorázové akce"]
+            },
+            {
+              "question": "Co je připomínající reklama?",
+              "answers": ["Reklama ve třetí fázi životního cyklu produktu pro udržení povědomí o produktu", "Reklama na nové produkty", "Reklama na sezónní výrobky", "Reklama na jednorázové akce"]
+            },
+            {
+              "question": "Jaká je hlavní výhoda veřejné prezentace reklamy?",
+              "answers": ["Možnost všeobecného uznání produktu", "Snížení nákladů na reklamu", "Přímý kontakt se zákazníkem", "Zvýšení ceny produktu"]
+            },
+            {
+              "question": "Jaký je význam účinnosti reklamy?",
+              "answers": ["Možnost častého opakování sdělení a porovnání s konkurenčními produkty", "Snížení nákladů na reklamu", "Zvýšení ceny produktu", "Zlepšení balení produktu"]
+            },
+            {
+              "question": "Co znamená pojem 'neosobní charakter' reklamy?",
+              "answers": ["Reklama neumožňuje přímý kontakt se zákazníkem", "Reklama je zaměřena na osobní prodej", "Reklama je určena pouze pro konkrétní segment trhu", "Reklama se zaměřuje na přímý kontakt se zákazníkem"]
+            },
+            {
+              "question": "Jaký je rozdíl mezi výrobkovou a institucionální reklamou?",
+              "answers": ["Výrobková reklama se zaměřuje na odlišení produktu, zatímco institucionální reklama na budování důvěry ve firmu", "Institucionální reklama je dražší než výrobková reklama", "Výrobková reklama se zaměřuje na sezónní výrobky, zatímco institucionální reklama na luxusní produkty", "Výrobková reklama je určena pro jednorázové akce, zatímco institucionální reklama pro dlouhodobé kampaně"]
+            },
+            {
+              "question": "Jaké jsou nejdůležitější vlastnosti reklamy?",
+              "answers": ["Veřejná prezentace, účinnost, znásobená působivost, neosobní charakter", "Vysoké náklady, složité balení, omezený dosah", "Nákladná kampaň, přímý kontakt, sezónní povaha", "Reklama na luxusní produkty, krátkodobý efekt, vysoká cena"]
+            },
+            {
+              "question": "Co je podstatou účinnosti reklamy?",
+              "answers": ["Časté opakování sdělení a možnost porovnání s konkurencí", "Nákladná kampaň a omezený dosah", "Složitý design a vysoké náklady", "Přímý kontakt se zákazníkem"]
+            },
+            {
+              "question": "Jaký je účel znásobené působivosti reklamy?",
+              "answers": ["Informovat o produktech a ztvárnit firmu prostřednictvím barev a zvuků", "Snížit náklady na reklamu", "Zvýšit cenu produktu", "Omezit dosah reklamy"]
+            },
+            {
+              "question": "Co je výhodou neosobního charakteru reklamy?",
+              "answers": ["Široký dosah bez potřeby přímého kontaktu se zákazníkem", "Přímý kontakt se zákazníkem", "Snížení nákladů na reklamu", "Zvýšení ceny produktu"]
+            },
+            {
+              "question": "Jaká je role reklamy ve fázi zavádění produktu?",
+              "answers": ["Upozornit spotřebitele na nový produkt", "Udržet povědomí o produktu", "Upevnit pozici produktu na trhu", "Zvýšit prodej sezónních výrobků"]
+            },
+            {
+              "question": "Jaká je role reklamy ve fázi růstu produktu?",
+              "answers": ["Upevnit pozici produktu na trhu", "Upozornit spotřebitele na nový produkt", "Udržet povědomí o produktu", "Zvýšit prodej sezónních výrobků"]
+            },
+            {
+              "question": "Jaká je role reklamy ve fázi zralosti produktu?",
+              "answers": ["Udržet povědomí o produktu", "Upozornit spotřebitele na nový produkt", "Upevnit pozici produktu na trhu", "Zvýšit prodej sezónních výrobků"]
+            },
+            {
+              "question": "Jaký je hlavní cíl institucionální reklamy?",
+              "answers": ["Budování důvěry ve firmu a její produkty", "Zvýšení ceny produktu", "Přímý kontakt se zákazníkem", "Omezený dosah reklamy"]
+            },
+            {
+              "question": "Co je situace analýza v rámci komunikační strategie?",
+              "answers": ["Podrobná identifikace firmy z hlediska její činnosti a postavení na trhu", "Reklama na nový produkt", "Cenová politika firmy", "Distribuční strategie firmy"]
+            },
+            {
+              "question": "Co je stanovení cílů komunikace?",
+              "answers": ["Podrobná znalost trhu a chování zákazníků", "Nákladná reklamní kampaň", "Stanovení ceny produktu", "Distribuční strategie firmy"]
+            },
+            {
+              "question": "Jaké nástroje zahrnuje komunikační mix?",
+              "answers": ["Reklama, osobní prodej, podpora prodeje, public relations, přímý marketing, internetová komunikace", "Pouze reklama", "Cenová politika a distribuce", "Výroba a balení produktu"]
+            },
+            {
+              "question": "Jaká je metoda sestavení rozpočtu v rámci komunikační strategie?",
+              "answers": ["Metoda možností, metoda procenta z příjmu, metoda konkurenční schopnosti, metoda cíl a úkol", "Pouze metoda procenta z příjmu", "Metoda stanovení ceny", "Metoda distribuce produktu"]
+            },
+            {
+              "question": "Co zahrnuje vlastní realizace komunikační strategie?",
+              "answers": ["Vymezení cílové skupiny a načasování komunikačního mixu", "Stanovení ceny produktu", "Výroba a balení produktu", "Distribuční strategie firmy"]
+            },
+            {
+              "question": "Jaký je závěrečný krok komunikační strategie?",
+              "answers": ["Vyhodnocení splnění cílů a úspěšnosti komunikační strategie", "Stanovení ceny produktu", "Reklama na nový produkt", "Distribuční strategie firmy"]
+            },
+            {
+              "question": "Co je hlavním účelem reklamy?",
+              "answers": ["Ovlivnit kupní chování spotřebitelů a přimět je k nákupnímu rozhodnutí", "Zvýšit cenu produktu", "Snížit náklady na výrobu", "Zlepšit balení produktu"]
+            }
+        ],
+        "18. Internetový marketing": [
+            {
+              "question": "Co je to elektronické obchodování?",
+              "answers": [
+                "Aktivní marketing a prodej zboží a služeb na internetu.",
+                "Použití elektronických platforem k provádění firemních obchodních činností.",
+                "Komunikace a podpora prodeje prostřednictvím internetu.",
+                "Online reklama zaměřená na specifické cílové skupiny."
+              ]
+            },
+            {
+              "question": "Jaký je hlavní cíl B2B obchodování?",
+              "answers": [
+                "Oslovení nových zákazníků a zvýšení efektivnosti.",
+                "Prodej zboží konečným spotřebitelům.",
+                "Výměna zboží a informací mezi spotřebiteli.",
+                "Iniciace obchodů zákazníky směrem k firmám."
+              ]
+            },
+            {
+              "question": "Co zahrnuje e-commerce?",
+              "answers": [
+                "Prodejní a nákupní procesy s využitím elektronické komunikace.",
+                "Použití intranetu k interní komunikaci.",
+                "Optimalizaci webových stránek pro vyhledávače.",
+                "Marketingovou komunikaci prostřednictvím e-mailu."
+              ]
+            },
+            {
+              "question": "Jaký typ webu je zaměřený na propagaci a nabídku pracovních míst?",
+              "answers": [
+                "Web zaměřený na propagaci.",
+                "Web zaměřený na prodej.",
+                "Intranetový web.",
+                "Extranetový web."
+              ]
+            },
+            {
+              "question": "Co je to intranet?",
+              "answers": [
+                "Vnitrofiremní medium přístupné pouze zaměstnancům.",
+                "Externí síť pro komunikaci s dodavateli.",
+                "Online platforma pro výměnu informací mezi spotřebiteli.",
+                "Internetová stránka zaměřená na prodej zboží."
+              ]
+            },
+            {
+              "question": "Co je to bannerová reklama?",
+              "answers": [
+                "Reklamní proužek obvykle animovaný plnící roli krátkého reklamního spotu.",
+                "Reklama ve formě e-mailu obsahující pouze propagační informace.",
+                "Optimalizace webových stránek pro lepší pozice ve vyhledávačích.",
+                "Online aukce umožňující transakce mezi spotřebiteli."
+              ]
+            },
+            {
+              "question": "Jaký je cíl virálního marketingu?",
+              "answers": [
+                "Dosažení růstu povědomí o značce produktu nebo službě.",
+                "Získání vyšších pozic ve vyhledávačích.",
+                "Zvýšení návštěvnosti webových stránek prostřednictvím bannerové reklamy.",
+                "Optimalizace e-mailové komunikace s cílovými skupinami."
+              ]
+            },
+            {
+              "question": "Co je součástí e-marketingu?",
+              "answers": [
+                "Komunikace, podpora prodeje a vlastní prodej zboží a služeb prostřednictvím internetu.",
+                "Použití intranetu k interní komunikaci.",
+                "Prodej zboží konečným spotřebitelům prostřednictvím online platforem.",
+                "Výměna informací mezi spotřebiteli prostřednictvím diskusních skupin."
+              ]
+            },
+            {
+              "question": "Co znamená C2C obchodování?",
+              "answers": [
+                "Obchod mezi spotřebiteli, zahrnující výměnu zboží a informací.",
+                "Obchod mezi firmami, zaměřený na zvýšení efektivnosti a lepší ceny.",
+                "Prodej zboží a služeb konečným spotřebitelům.",
+                "Obchod iniciovaný zákazníkem směrem k firmám."
+              ]
+            },
+            {
+              "question": "Jaký je rozdíl mezi otevřeným a soukromým tržištěm v B2B obchodování?",
+              "answers": [
+                "Otevřená tržiště zprostředkovávají transakce mezi širokou komunitou, zatímco soukromá tržiště se soustřeďují na obchody daného prodejce s jeho obchodními partnery.",
+                "Otevřená tržiště jsou přístupná pouze vybraným firmám, zatímco soukromá tržiště jsou otevřená všem.",
+                "Otevřená tržiště se zaměřují na prodej koncovým spotřebitelům, zatímco soukromá tržiště na výměnu informací mezi spotřebiteli.",
+                "Otevřená tržiště fungují pouze v rámci jedné země, zatímco soukromá tržiště mají globální dosah."
+              ]
+            },
+            {
+              "question": "Který typ zákazníka je popsán jako ten, který ví, co chce koupit, a hledá nejlepší cenu?",
+              "answers": [
+                "První typ zákazníka.",
+                "Druhý typ zákazníka.",
+                "Třetí typ zákazníka.",
+                "Čtvrtý typ zákazníka."
+              ]
+            },
+            {
+              "question": "Jaký je účel optimalizace stránek pro vyhledávače?",
+              "answers": [
+                "Získání nejlepších výsledků ve vyhledávačích.",
+                "Zvýšení efektivnosti vnitrofiremní komunikace.",
+                "Podpora prodeje zboží a služeb prostřednictvím internetu.",
+                "Zlepšení bezpečnosti online transakcí."
+              ]
+            },
+            {
+              "question": "Co je to spam?",
+              "answers": [
+                "Nevyžádaná pošta.",
+                "Reklamní vsuvka do e-mailu.",
+                "Optimalizace webových stránek.",
+                "Bannerová reklama."
+              ]
+            },
+            {
+              "question": "Co je hlavním cílem reklamní kampaně na internetu?",
+              "answers": [
+                "Získání návštěvníků a přimět je k nákupu.",
+                "Zvýšení povědomí o značce.",
+                "Optimalizace stránek pro vyhledávače.",
+                "Výměna informací mezi spotřebiteli."
+              ]
+            },
+            {
+              "question": "Co zahrnuje e-business?",
+              "answers": [
+                "Použití elektronických platforem k provádění firemních obchodních činností.",
+                "Prodej zboží a služeb prostřednictvím internetu.",
+                "Komunikace a podpora prodeje prostřednictvím internetu.",
+                "Optimalizace webových stránek pro lepší výsledky ve vyhledávačích."
+              ]
+            },
+            {
+              "question": "Jaký typ webu je zaměřený na přímou komunikaci se zákazníky a obsahuje základní informace o firmě?",
+              "answers": [
+                "Web zaměřený na propagaci.",
+                "Web zaměřený na prodej.",
+                "Intranetový web.",
+                "Extranetový web."
+              ]
+            },
+            {
+              "question": "Co je hlavní výhodou bannerové reklamy?",
+              "answers": [
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Nízké náklady na provozování reklamy.",
+                "Široký dosah na cílovou skupinu.",
+                "Možnost individuálního přizpůsobení reklamy."
+              ]
+            },
+            {
+              "question": "Co je typické pro B2C obchodování?",
+              "answers": [
+                "Prodej zboží a služeb konečným spotřebitelům.",
+                "Obchod mezi firmami.",
+                "Výměna zboží a informací mezi spotřebiteli.",
+                "Iniciace obchodů zákazníky směrem k firmám."
+              ]
+            },
+            {
+              "question": "Jaký je hlavní cíl e-mailového marketingu?",
+              "answers": [
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Zvýšení návštěvnosti webových stránek.",
+                "Optimalizace stránek pro vyhledávače.",
+                "Prodej zboží a služeb konečným spotřebitelům."
+              ]
+            },
+            {
+              "question": "Co je hlavní charakteristikou virálního marketingu?",
+              "answers": [
+                "Neřízené šíření informací mezi lidmi za účelem dosažení maximální pozornosti.",
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Optimalizace webových stránek pro vyhledávače.",
+                "Komunikace a podpora prodeje prostřednictvím internetu."
+              ]
+            },
+            {
+              "question": "Co je cílem marketingového webu?",
+              "answers": [
+                "Propagovat a prosadit neinternetovou službu.",
+                "Prodej zboží prostřednictvím internetu.",
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Výměna informací mezi spotřebiteli."
+              ]
+            },
+            {
+              "question": "Co je to extranet?",
+              "answers": [
+                "Externí síť pro komunikaci s dodavateli.",
+                "Vnitrofiremní medium přístupné pouze zaměstnancům.",
+                "Online platforma pro výměnu informací mezi spotřebiteli.",
+                "Internetová stránka zaměřená na prodej zboží."
+              ]
+            },
+            {
+              "question": "Jaký je hlavní účel optimalizace stránek pro vyhledávače?",
+              "answers": [
+                "Získání lepších pozic ve výsledcích vyhledávání.",
+                "Zvýšení efektivnosti vnitrofiremní komunikace.",
+                "Podpora prodeje zboží a služeb prostřednictvím internetu.",
+                "Zlepšení bezpečnosti online transakcí."
+              ]
+            },
+            {
+              "question": "Co zahrnuje elektronický časopis?",
+              "answers": [
+                "Informování zákazníků a poskytování materiálu k počtení.",
+                "Prodej zboží prostřednictvím internetu.",
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Optimalizace stránek pro vyhledávače."
+              ]
+            },
+            {
+              "question": "Jaká je hlavní výhoda virálního marketingu?",
+              "answers": [
+                "Nízké náklady a vysoká účinnost zásahu.",
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Široký dosah na cílovou skupinu.",
+                "Možnost individuálního přizpůsobení reklamy."
+              ]
+            },
+            {
+              "question": "Co je hlavní charakteristikou e-commerce?",
+              "answers": [
+                "Prodejní a nákupní procesy s využitím elektronické komunikace.",
+                "Použití intranetu k interní komunikaci.",
+                "Optimalizace webových stránek pro lepší výsledky ve vyhledávačích.",
+                "Marketingová komunikace prostřednictvím e-mailu."
+              ]
+            },
+            {
+              "question": "Co je to B2C obchodování?",
+              "answers": [
+                "Prodej zboží a služeb konečným spotřebitelům.",
+                "Obchod mezi firmami.",
+                "Výměna zboží a informací mezi spotřebiteli.",
+                "Iniciace obchodů zákazníky směrem k firmám."
+              ]
+            },
+            {
+              "question": "Co je hlavním cílem e-mailového marketingu?",
+              "answers": [
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Zvýšení návštěvnosti webových stránek.",
+                "Optimalizace stránek pro vyhledávače.",
+                "Prodej zboží a služeb konečným spotřebitelům."
+              ]
+            },
+            {
+              "question": "Jaká je hlavní charakteristika virálního marketingu?",
+              "answers": [
+                "Neřízené šíření informací mezi lidmi za účelem dosažení maximální pozornosti.",
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Optimalizace webových stránek pro vyhledávače.",
+                "Komunikace a podpora prodeje prostřednictvím internetu."
+              ]
+            },
+            {
+              "question": "Co je cílem marketingového webu?",
+              "answers": [
+                "Propagovat a prosadit neinternetovou službu.",
+                "Prodej zboží prostřednictvím internetu.",
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Výměna informací mezi spotřebiteli."
+              ]
+            },
+            {
+              "question": "Co je to intranet?",
+              "answers": [
+                "Vnitrofiremní medium přístupné pouze zaměstnancům.",
+                "Externí síť pro komunikaci s dodavateli.",
+                "Online platforma pro výměnu informací mezi spotřebiteli.",
+                "Internetová stránka zaměřená na prodej zboží."
+              ]
+            },
+            {
+              "question": "Jaká je hlavní výhoda bannerové reklamy?",
+              "answers": [
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Nízké náklady na provozování reklamy.",
+                "Široký dosah na cílovou skupinu.",
+                "Možnost individuálního přizpůsobení reklamy."
+              ]
+            },
+            {
+              "question": "Jaký je cíl reklamní kampaně na internetu?",
+              "answers": [
+                "Získání návštěvníků a přimět je k nákupu.",
+                "Zvýšení povědomí o značce.",
+                "Optimalizace stránek pro vyhledávače.",
+                "Výměna informací mezi spotřebiteli."
+              ]
+            },
+            {
+              "question": "Co je součástí e-marketingu?",
+              "answers": [
+                "Komunikace, podpora prodeje a vlastní prodej zboží a služeb prostřednictvím internetu.",
+                "Použití intranetu k interní komunikaci.",
+                "Prodej zboží konečným spotřebitelům prostřednictvím online platforem.",
+                "Výměna informací mezi spotřebiteli prostřednictvím diskusních skupin."
+              ]
+            },
+            {
+              "question": "Co znamená C2C obchodování?",
+              "answers": [
+                "Obchod mezi spotřebiteli, zahrnující výměnu zboží a informací.",
+                "Obchod mezi firmami, zaměřený na zvýšení efektivnosti a lepší ceny.",
+                "Prodej zboží a služeb konečným spotřebitelům.",
+                "Obchod iniciovaný zákazníkem směrem k firmám."
+              ]
+            },
+            {
+              "question": "Co je hlavní charakteristikou e-commerce?",
+              "answers": [
+                "Prodejní a nákupní procesy s využitím elektronické komunikace.",
+                "Použití intranetu k interní komunikaci.",
+                "Optimalizace webových stránek pro lepší výsledky ve vyhledávačích.",
+                "Marketingová komunikace prostřednictvím e-mailu."
+              ]
+            },
+            {
+              "question": "Jaký je rozdíl mezi otevřeným a soukromým tržištěm v B2B obchodování?",
+              "answers": [
+                "Otevřená tržiště zprostředkovávají transakce mezi širokou komunitou, zatímco soukromá tržiště se soustřeďují na obchody daného prodejce s jeho obchodními partnery.",
+                "Otevřená tržiště jsou přístupná pouze vybraným firmám, zatímco soukromá tržiště jsou otevřená všem.",
+                "Otevřená tržiště se zaměřují na prodej koncovým spotřebitelům, zatímco soukromá tržiště na výměnu informací mezi spotřebiteli.",
+                "Otevřená tržiště fungují pouze v rámci jedné země, zatímco soukromá tržiště mají globální dosah."
+              ]
+            },
+            {
+              "question": "Jaký typ webu je zaměřený na přímou komunikaci se zákazníky a obsahuje základní informace o firmě?",
+              "answers": [
+                "Web zaměřený na propagaci.",
+                "Web zaměřený na prodej.",
+                "Intranetový web.",
+                "Extranetový web."
+              ]
+            },
+            {
+              "question": "Jaký je cíl B2B obchodování?",
+              "answers": [
+                "Oslovení nových zákazníků a zvýšení efektivnosti.",
+                "Prodej zboží konečným spotřebitelům.",
+                "Výměna zboží a informací mezi spotřebiteli.",
+                "Iniciace obchodů zákazníky směrem k firmám."
+              ]
+            },
+            {
+              "question": "Co je hlavní výhodou virálního marketingu?",
+              "answers": [
+                "Nízké náklady a vysoká účinnost zásahu.",
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Široký dosah na cílovou skupinu.",
+                "Možnost individuálního přizpůsobení reklamy."
+              ]
+            },
+            {
+              "question": "Co je hlavním cílem e-mailového marketingu?",
+              "answers": [
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Zvýšení návštěvnosti webových stránek.",
+                "Optimalizace stránek pro vyhledávače.",
+                "Prodej zboží a služeb konečným spotřebitelům."
+              ]
+            },
+            {
+              "question": "Co je hlavní charakteristikou virálního marketingu?",
+              "answers": [
+                "Neřízené šíření informací mezi lidmi za účelem dosažení maximální pozornosti.",
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Optimalizace webových stránek pro vyhledávače.",
+                "Komunikace a podpora prodeje prostřednictvím internetu."
+              ]
+            },
+            {
+              "question": "Co je cílem marketingového webu?",
+              "answers": [
+                "Propagovat a prosadit neinternetovou službu.",
+                "Prodej zboží prostřednictvím internetu.",
+                "Komunikace a podpora prodeje prostřednictvím e-mailů.",
+                "Výměna informací mezi spotřebiteli."
+              ]
+            },
+            {
+              "question": "Co je to intranet?",
+              "answers": [
+                "Vnitrofiremní medium přístupné pouze zaměstnancům.",
+                "Externí síť pro komunikaci s dodavateli.",
+                "Online platforma pro výměnu informací mezi spotřebiteli.",
+                "Internetová stránka zaměřená na prodej zboží."
+              ]
+            },
+            {
+              "question": "Jaká je hlavní výhoda bannerové reklamy?",
+              "answers": [
+                "Přesné měření počtu zobrazení a kliknutí na reklamu.",
+                "Nízké náklady na provozování reklamy.",
+                "Široký dosah na cílovou skupinu.",
+                "Možnost individuálního přizpůsobení reklamy."
+              ]
+            }
         ]
     },
     "Ekonomie": {
