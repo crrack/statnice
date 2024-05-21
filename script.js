@@ -167,10 +167,16 @@ function checkAnswer(selectedAnswer, questionObj) {
   document.getElementById('correctCount').textContent = correctCount;
   document.getElementById('incorrectCount').textContent = incorrectCount;
 
+  scrollToEnd();
+
   setTimeout(() => {
     currentQuestionIndex++;
     showQuestion();
   }, 1400);
+}
+
+function scrollToEnd() {
+    window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
 }
 
 function shuffleArray(array) {
