@@ -5423,12 +5423,1049 @@
         
     },
     "Ekonomie": {
-      "1": [
-        {
-          "question": "Otázka MANG 1.1",
-          "answers": ["Správná odpověď", "Špatná odpověď 1", "Špatná odpověď 2", "Špatná odpověď 3"]
-        }
-      ]
+        "1. Chování spotřebitele a formování poptávky": [
+            {
+              "question": "Co znamená celkový užitek?",
+              "answers": [
+                "Celková úroveň uspokojení určité potřeby.",
+                "Změna celkového užitku při spotřebě jedné další jednotky zboží.",
+                "Poměr změny množství dvou statků při konstantním užitku.",
+                "Celkový náklad na spotřebu všech statků."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje mezní užitek?",
+              "answers": [
+                "O kolik vzroste celkový užitek, když se množství spotřebovávaného zboží zvýší o jednotku.",
+                "Celkovou úroveň uspokojení určité potřeby.",
+                "Snížení ceny zboží při zvýšení jeho množství.",
+                "Zvýšení nákladů na výrobu další jednotky zboží."
+              ]
+            },
+            {
+              "question": "Jaký je zákon klesajícího mezního užitku?",
+              "answers": [
+                "S růstem objemu spotřebovávaného zboží klesá mezní užitek.",
+                "S růstem ceny zboží klesá celkový užitek.",
+                "S růstem objemu spotřebovávaného zboží roste mezní užitek.",
+                "S poklesem ceny zboží roste mezní užitek."
+              ]
+            },
+            {
+              "question": "Co je rovnováha spotřebitele?",
+              "answers": [
+                "Stav, kdy se mezní užitek rovná ceně statku.",
+                "Stav, kdy je celkový užitek maximální.",
+                "Situace, kdy spotřebitel kupuje pouze jeden druh statku.",
+                "Moment, kdy mezní náklady se rovnají meznímu užitku."
+              ]
+            },
+            {
+              "question": "Co popisuje zákon rovnosti mezních užitků na peněžní jednotku?",
+              "answers": [
+                "Spotřebitel maximalizuje svůj užitek tak, že mezní užitky zboží na jednotku ceny jsou rovny.",
+                "Spotřebitel volí kombinaci statků, kde celkový užitek je nejvyšší.",
+                "Spotřebitel nakupuje zboží pouze tehdy, když jeho cena je nejnižší.",
+                "Spotřebitel mění své preference při změně cen statků."
+              ]
+            },
+            {
+              "question": "Co jsou cenové faktory poptávky?",
+              "answers": [
+                "Změny cen statků na trhu.",
+                "Změny v příjmech spotřebitelů.",
+                "Změny ve vkusu a preferencích spotřebitelů.",
+                "Změny v počtu spotřebitelů na trhu."
+              ]
+            },
+            {
+              "question": "Co jsou necenové faktory poptávky?",
+              "answers": [
+                "Změny v příjmech, preferencích a demografických faktorech.",
+                "Změny cen statků na trhu.",
+                "Změny v kvalitě zboží.",
+                "Změny v dostupnosti komplementárních statků."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje elasticita poptávky?",
+              "answers": [
+                "Citlivost poptávaného množství na změnu ceny.",
+                "Celkový užitek zboží při různé ceně.",
+                "Snížení poptávky při zvýšení ceny zboží.",
+                "Růst poptávky při poklesu ceny zboží."
+              ]
+            },
+            {
+              "question": "Jaká je definice cenové elasticity poptávky?",
+              "answers": [
+                "Procentuální změna poptávaného množství při procentuální změně ceny.",
+                "Procentuální změna celkového užitku při změně ceny.",
+                "Absolutní změna poptávaného množství při změně ceny o jednu jednotku.",
+                "Relativní změna ceny při změně poptávaného množství."
+              ]
+            },
+            {
+              "question": "Co je indiferenční analýza?",
+              "answers": [
+                "Metoda vyjadřující rovnováhu spotřebitele pomocí indiferenčních křivek.",
+                "Metoda měření celkového užitku.",
+                "Analýza trhu na základě cenových změn.",
+                "Metoda odhadu elasticity poptávky."
+              ]
+            },
+            {
+              "question": "Co ukazuje indiferenční křivka?",
+              "answers": [
+                "Kombinace dvou statků, které poskytují stejný užitek.",
+                "Růst celkového užitku při zvýšení jednoho statku.",
+                "Snížení užitku při zvýšení ceny statku.",
+                "Maximální množství statků, které spotřebitel může koupit."
+              ]
+            },
+            {
+              "question": "Jaký je tvar indiferenční křivky?",
+              "answers": [
+                "Klesající zleva doprava.",
+                "Rostoucí zleva doprava.",
+                "Horisontální přímka.",
+                "Vertikální přímka."
+              ]
+            },
+            {
+              "question": "Co je indiferenční mapa?",
+              "answers": [
+                "Soubor více indiferenčních křivek.",
+                "Kombinace statků při různých cenách.",
+                "Graf poptávkové křivky.",
+                "Zobrazení celkového užitku statků."
+              ]
+            },
+            {
+              "question": "Co je linie příjmů?",
+              "answers": [
+                "Maximálně dostupné kombinace dvou statků při daném rozpočtu.",
+                "Grafické znázornění celkového užitku.",
+                "Křivka poptávky při různých cenách.",
+                "Horizontální osa v grafu poptávky."
+              ]
+            },
+            {
+              "question": "Co je rovnováha spotřebitele v indiferenční analýze?",
+              "answers": [
+                "Bod, kde se linie příjmů dotýká indiferenční křivky.",
+                "Bod, kde je celkový užitek maximální.",
+                "Bod, kde jsou všechny statky stejně ceněny.",
+                "Bod, kde je cena statku minimální."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje cenová elasticita poptávky u vybraných výrobků?",
+              "answers": [
+                "Citlivost poptávaného množství na změny cen specifických výrobků.",
+                "Změnu celkového užitku při změně ceny výrobků.",
+                "Změnu nabídky při změně cen výrobků.",
+                "Růst poptávky při zvyšování cen specifických výrobků."
+              ]
+            },
+            {
+              "question": "Jaký je praktický význam koeficientu cenové elasticity poptávky?",
+              "answers": [
+                "Pomáhá při tvorbě cenové strategie a předpovídání změn poptávky.",
+                "Určuje maximální cenu, kterou jsou spotřebitelé ochotni zaplatit.",
+                "Zobrazuje celkový užitek zboží při různých cenách.",
+                "Měří kvalitu zboží na trhu."
+              ]
+            },
+            {
+              "question": "Co je substituční efekt?",
+              "answers": [
+                "Změna poptávaného množství v důsledku změny relativních cen statků.",
+                "Změna poptávaného množství v důsledku změny důchodu.",
+                "Změna celkového užitku při změně ceny zboží.",
+                "Růst poptávky při poklesu cen substitutů."
+              ]
+            },
+            {
+              "question": "Co je důchodový efekt?",
+              "answers": [
+                "Změna poptávaného množství v důsledku změny reálného důchodu spotřebitele.",
+                "Změna poptávaného množství v důsledku změny ceny zboží.",
+                "Změna celkového užitku při zvýšení důchodu.",
+                "Růst poptávky při zvyšování důchodu spotřebitelů."
+              ]
+            },
+            {
+              "question": "Co je mezní míra substituce (MRS)?",
+              "answers": [
+                "Poměr, v němž je možné vzájemně nahrazovat dva statky bez změny užitku.",
+                "Míra, při které se celkový užitek dvou statků vyrovná.",
+                "Poměr změny ceny dvou statků při stejné poptávce.",
+                "Relativní růst cen při zvýšení poptávky po jednom statku."
+              ]
+            },
+            {
+              "question": "Co je důchodová elasticita poptávky?",
+              "answers": [
+                "Vyjadřuje závislost změn poptávaného množství na změnách důchodu spotřebitele.",
+                "Měří změny v důchodu při změnách cen statků.",
+                "Zobrazuje celkový užitek při růstu důchodu.",
+                "Vyjadřuje změny poptávky při změně ceny."
+              ]
+            },
+            {
+              "question": "Co je křížová elasticita poptávky?",
+              "answers": [
+                "Měří změnu poptávky po jednom zboží při změně ceny jiného zboží.",
+                "Vyjadřuje změnu poptávky při změně důchodu.",
+                "Měří citlivost poptávky na změny cen substitutů.",
+                "Vyjadřuje celkový užitek při růstu důchodu."
+              ]
+            },
+            {
+              "question": "Co je dokonale elastická poptávka?",
+              "answers": [
+                "Situace, kdy i malá změna ceny vede k nekonečně velké změně poptávaného množství.",
+                "Poptávka, která se nemění při změně ceny.",
+                "Poptávka, která klesá s růstem ceny.",
+                "Poptávka, která roste s poklesem ceny."
+              ]
+            },
+            {
+              "question": "Co je dokonale neelastická poptávka?",
+              "answers": [
+                "Situace, kdy změna ceny nevede k žádné změně poptávaného množství.",
+                "Poptávka, která klesá s růstem ceny.",
+                "Poptávka, která roste s poklesem ceny.",
+                "Poptávka, která se mění při změně ceny."
+              ]
+            },
+            {
+              "question": "Jaké jsou ovlivňující faktory elasticity poptávky?",
+              "answers": [
+                "Povaha potřeb, podíl výdajů, existence substitutů, časový faktor.",
+                "Cena zboží, důchod spotřebitele, preference spotřebitele.",
+                "Kvalita zboží, dostupnost na trhu, reklama.",
+                "Výše důchodu, množství statků, inflace."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje cenová elasticita poptávky?",
+              "answers": [
+                "Procentuální změnu poptávaného množství při procentuální změně ceny.",
+                "Celkový užitek zboží při různé ceně.",
+                "Snížení poptávky při zvýšení ceny zboží.",
+                "Růst poptávky při poklesu ceny zboží."
+              ]
+            },
+            {
+              "question": "Jak se měří cenová elasticita poptávky?",
+              "answers": [
+                "Koeficientem cenové elasticity poptávky.",
+                "Poměrem celkového užitku a ceny.",
+                "Změnou ceny a množství zboží.",
+                "Poměrem příjmů a výdajů spotřebitele."
+              ]
+            },
+            {
+              "question": "Co je bod rovnováhy spotřebitele?",
+              "answers": [
+                "Bod, kde se linie příjmů dotýká indiferenční křivky.",
+                "Bod, kde je celkový užitek maximální.",
+                "Bod, kde jsou všechny statky stejně ceněny.",
+                "Bod, kde je cena statku minimální."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje geometrická analýza rovnováhy spotřebitele?",
+              "answers": [
+                "Kombinaci grafů indiferenčních křivek a linií příjmů.",
+                "Zobrazení celkového užitku.",
+                "Analýzu trhu na základě cenových změn.",
+                "Kombinaci cen a množství zboží."
+              ]
+            }
+        ],
+        "2. Teorie výroby a mezní produkt": [
+            {
+              "question": "Co je produkční funkce?",
+              "answers": [
+                "Vztah mezi množstvím vstupů a výstupů ve výrobním procesu.",
+                "Výpočet nákladů na výrobu.",
+                "Strategie marketingového plánování.",
+                "Analýza konkurence na trhu."
+              ]
+            },
+            {
+              "question": "Co představuje celkový produkt (TPP)?",
+              "answers": [
+                "Celkový objem produkce vyrobený určitým množstvím inputu.",
+                "Průměrný příjem na jednotku produkce.",
+                "Celkové náklady na výrobu.",
+                "Souhrn všech tržeb z prodeje výrobků."
+              ]
+            },
+            {
+              "question": "Jaký je průměrný produkt (APP)?",
+              "answers": [
+                "Objem produkce připadající na jednotku inputu.",
+                "Celkový výstup produkce.",
+                "Náklady na jednotku inputu.",
+                "Celkový příjem z prodeje."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje mezní produkt (MPP)?",
+              "answers": [
+                "Příspěvek poslední přidané jednotky vstupu k celkovému produktu.",
+                "Průměrný výstup produkce na jednotku inputu.",
+                "Celkový příjem z prodeje.",
+                "Celkové náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Co říká zákon klesajících výnosů?",
+              "answers": [
+                "Při zvýšení množství jednoho vstupu při neměnném množství ostatních vstupů se přírůstky výstupu snižují.",
+                "Při zvýšení množství všech vstupů se výstup zvyšuje proporcionálně.",
+                "Při snížení množství vstupů se výstup zvyšuje.",
+                "Při zvýšení množství jednoho vstupu se výstup zvyšuje proporcionálně."
+              ]
+            },
+            {
+              "question": "Co jsou výnosy z rozsahu?",
+              "answers": [
+                "Souvislost mezi proporcionální změnou vstupů a vyvolanou změnou výstupu.",
+                "Celkový příjem z prodeje výrobků.",
+                "Náklady na jednotku inputu.",
+                "Příspěvek poslední přidané jednotky vstupu."
+              ]
+            },
+            {
+              "question": "Jak se dělí produkční analýza podle období?",
+              "answers": [
+                "Na krátké a dlouhé období.",
+                "Na interní a externí období.",
+                "Na sezónní a stálé období.",
+                "Na cyklické a necyklické období."
+              ]
+            },
+            {
+              "question": "Co charakterizuje krátké období v produkční analýze?",
+              "answers": [
+                "Doba, ve které nelze změnit množství alespoň jednoho vstupu.",
+                "Doba, ve které lze změnit všechny vstupy.",
+                "Doba, ve které se mění pouze kapitál.",
+                "Doba, ve které se mění pouze práce."
+              ]
+            },
+            {
+              "question": "Co charakterizuje dlouhé období v produkční analýze?",
+              "answers": [
+                "Doba, ve které lze změnit množství všech vstupů.",
+                "Doba, ve které nelze změnit množství alespoň jednoho vstupu.",
+                "Doba, ve které se mění pouze kapitál.",
+                "Doba, ve které se mění pouze práce."
+              ]
+            },
+            {
+              "question": "Co je celkový příjem (TR)?",
+              "answers": [
+                "Celková částka, kterou firma získá prodejem svých výrobků.",
+                "Příjem na jednotku produkce.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Co je průměrný příjem (AR)?",
+              "answers": [
+                "Příjem na jednotku produkce.",
+                "Celková částka, kterou firma získá prodejem svých výrobků.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Co je mezní příjem (MR)?",
+              "answers": [
+                "Změna celkového příjmu vyvolaná změnou vyrobeného množství o jednotku.",
+                "Příjem na jednotku produkce.",
+                "Celková částka, kterou firma získá prodejem svých výrobků.",
+                "Náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Jak se vypočítá celkový příjem (TR) v dokonalé konkurenci?",
+              "answers": [
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Cena produktu dělená množstvím prodaných jednotek.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu vynásobené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Jak se vypočítá průměrný příjem (AR) v dokonalé konkurenci?",
+              "answers": [
+                "Celkový příjem dělený množstvím prodaných jednotek.",
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu dělené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Jak se vypočítá mezní příjem (MR) v dokonalé konkurenci?",
+              "answers": [
+                "Změna celkového příjmu dělená změnou množství prodaných jednotek.",
+                "Celkový příjem dělený množstvím prodaných jednotek.",
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Náklady na výrobu vynásobené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Jak se vypočítá celkový příjem (TR) v nedokonalé konkurenci?",
+              "answers": [
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Cena produktu dělená množstvím prodaných jednotek.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu vynásobené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Jak se vypočítá průměrný příjem (AR) v nedokonalé konkurenci?",
+              "answers": [
+                "Celkový příjem dělený množstvím prodaných jednotek.",
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu dělené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Jak se vypočítá mezní příjem (MR) v nedokonalé konkurenci?",
+              "answers": [
+                "Změna celkového příjmu dělená změnou množství prodaných jednotek.",
+                "Celkový příjem dělený množstvím prodaných jednotek.",
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Náklady na výrobu vynásobené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Co je zisk (z) firmy?",
+              "answers": [
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Celkový příjem dělený množstvím prodaných jednotek.",
+                "Cena produktu vynásobená množstvím prodaných jednotek.",
+                "Náklady na výrobu dělené množstvím prodaných jednotek."
+              ]
+            },
+            {
+              "question": "Jaký je vzorec pro výpočet zisku (z)?",
+              "answers": [
+                "z = TR - TC",
+                "z = TR + TC",
+                "z = AR - AC",
+                "z = AR + AC"
+              ]
+            },
+            {
+              "question": "Co znamená TR?",
+              "answers": [
+                "Total Revenue (celkový příjem).",
+                "Total Cost (celkové náklady).",
+                "Average Revenue (průměrný příjem).",
+                "Marginal Revenue (mezní příjem)."
+              ]
+            },
+            {
+              "question": "Co znamená AR?",
+              "answers": [
+                "Average Revenue (průměrný příjem).",
+                "Total Revenue (celkový příjem).",
+                "Total Cost (celkové náklady).",
+                "Marginal Revenue (mezní příjem)."
+              ]
+            },
+            {
+              "question": "Co znamená MR?",
+              "answers": [
+                "Marginal Revenue (mezní příjem).",
+                "Average Revenue (průměrný příjem).",
+                "Total Revenue (celkový příjem).",
+                "Total Cost (celkové náklady)."
+              ]
+            },
+            {
+              "question": "Co je krátkodobá produkční funkce?",
+              "answers": [
+                "Vztah mezi výstupem a variabilním vstupem při fixním množství kapitálu.",
+                "Vztah mezi výstupem a fixním vstupem při variabilním množství práce.",
+                "Vztah mezi výstupem a fixním množstvím všech vstupů.",
+                "Vztah mezi výstupem a variabilním množstvím všech vstupů."
+              ]
+            },
+            {
+              "question": "Co je dlouhodobá produkční funkce?",
+              "answers": [
+                "Vztah mezi výstupem a variabilním množstvím všech vstupů.",
+                "Vztah mezi výstupem a fixním množstvím všech vstupů.",
+                "Vztah mezi výstupem a fixním vstupem při variabilním množství práce.",
+                "Vztah mezi výstupem a variabilním vstupem při fixním množství kapitálu."
+              ]
+            },
+            {
+              "question": "Co je izokvanta?",
+              "answers": [
+                "Křivka znázorňující všechny kombinace výrobních faktorů, které mohou vyprodukovat stejné množství výstupu.",
+                "Křivka znázorňující všechny kombinace výrobků, které mohou být prodány za stejnou cenu.",
+                "Křivka znázorňující růst celkového příjmu při změně ceny.",
+                "Křivka znázorňující vztah mezi náklady a příjmy."
+              ]
+            },
+            {
+              "question": "Co je izokosta?",
+              "answers": [
+                "Křivka znázorňující všechny kombinace výrobních faktorů, které jsou maximálně dosažitelné s danými celkovými náklady.",
+                "Křivka znázorňující všechny kombinace výrobků, které mohou být prodány za stejnou cenu.",
+                "Křivka znázorňující růst celkového příjmu při změně ceny.",
+                "Křivka znázorňující vztah mezi náklady a příjmy."
+              ]
+            },
+            {
+              "question": "Co znamená MR = MC v podmínkách dokonalé konkurence?",
+              "answers": [
+                "Bod maximalizace zisku, kde mezní příjem se rovná mezním nákladům.",
+                "Bod, kde celkové příjmy se rovnají celkovým nákladům.",
+                "Bod, kde průměrné náklady se rovnají průměrným příjmům.",
+                "Bod, kde mezní příjem se rovná celkovým nákladům."
+              ]
+            },
+            {
+              "question": "Co znamená MR < MC v podmínkách nedokonalé konkurence?",
+              "answers": [
+                "Firma by měla snížit výrobu, aby zvýšila zisk.",
+                "Firma by měla zvýšit výrobu, aby zvýšila zisk.",
+                "Firma by měla zvýšit ceny, aby zvýšila zisk.",
+                "Firma by měla snížit ceny, aby zvýšila zisk."
+              ]
+            }
+        ],
+        "3. Analýza nákladů a formování nabídky": [
+            {
+              "question": "Co jsou variabilní náklady?",
+              "answers": [
+                "Náklady, které se mění s objemem výroby.",
+                "Náklady, které zůstávají stejné bez ohledu na objem výroby.",
+                "Náklady spojené s nákupem fixních aktiv.",
+                "Náklady spojené s údržbou budov."
+              ]
+            },
+            {
+              "question": "Co jsou fixní náklady?",
+              "answers": [
+                "Náklady, které zůstávají stejné bez ohledu na objem výroby.",
+                "Náklady, které se mění s objemem výroby.",
+                "Náklady spojené s nákupem materiálů.",
+                "Náklady spojené s dopravou výrobků."
+              ]
+            },
+            {
+              "question": "Co jsou celkové náklady (TC)?",
+              "answers": [
+                "Součet fixních a variabilních nákladů.",
+                "Součet přímých a nepřímých nákladů.",
+                "Náklady spojené pouze s variabilními složkami.",
+                "Náklady spojené pouze s fixními složkami."
+              ]
+            },
+            {
+              "question": "Co jsou explicitní náklady?",
+              "answers": [
+                "Náklady, které firma skutečně vynaloží v peněžní podobě.",
+                "Náklady, které firma neplatí přímo.",
+                "Náklady na úroky a půjčky.",
+                "Náklady na opotřebení strojů."
+              ]
+            },
+            {
+              "question": "Co jsou implicitní náklady?",
+              "answers": [
+                "Náklady obětované příležitosti.",
+                "Náklady, které firma skutečně vynaloží v peněžní podobě.",
+                "Náklady na údržbu a opravy.",
+                "Náklady na marketingové aktivity."
+              ]
+            },
+            {
+              "question": "Jak se vypočítají průměrné náklady (AC)?",
+              "answers": [
+                "Celkové náklady dělené množstvím vyrobených jednotek.",
+                "Variabilní náklady dělené množstvím vyrobených jednotek.",
+                "Fixní náklady dělené množstvím vyrobených jednotek.",
+                "Náklady na jednotku vstupu."
+              ]
+            },
+            {
+              "question": "Co jsou mezní náklady (MC)?",
+              "answers": [
+                "Náklady na výrobu jedné další jednotky produkce.",
+                "Průměrné náklady na jednotku produkce.",
+                "Fixní náklady na jednotku produkce.",
+                "Celkové náklady na všechny vyrobené jednotky."
+              ]
+            },
+            {
+              "question": "Jaký je rozdíl mezi celkovým a průměrným ziskem?",
+              "answers": [
+                "Celkový zisk je rozdíl mezi celkovými příjmy a celkovými náklady, průměrný zisk je celkový zisk dělený množstvím vyrobených jednotek.",
+                "Celkový zisk je rozdíl mezi příjmy a variabilními náklady, průměrný zisk je příjem na jednotku produkce.",
+                "Celkový zisk je rozdíl mezi příjmy a fixními náklady, průměrný zisk je příjem na jednotku vstupu.",
+                "Celkový zisk je součet příjmů, průměrný zisk je rozdíl mezi příjmy a náklady na jednotku produkce."
+              ]
+            },
+            {
+              "question": "Co jsou účetní náklady?",
+              "answers": [
+                "Náklady zaznamenané v účetnictví firmy.",
+                "Náklady, které nejsou zaznamenány v účetnictví.",
+                "Náklady na výzkum a vývoj.",
+                "Náklady na školení zaměstnanců."
+              ]
+            },
+            {
+              "question": "Co je účetní zisk?",
+              "answers": [
+                "Rozdíl mezi celkovými příjmy a explicitními náklady.",
+                "Rozdíl mezi celkovými příjmy a implicitními náklady.",
+                "Rozdíl mezi celkovými příjmy a variabilními náklady.",
+                "Rozdíl mezi celkovými příjmy a fixními náklady."
+              ]
+            },
+            {
+              "question": "Co je čistý zisk (ekonomický zisk)?",
+              "answers": [
+                "Rozdíl mezi účetním ziskem a implicitními náklady.",
+                "Rozdíl mezi celkovými příjmy a explicitními náklady.",
+                "Rozdíl mezi celkovými příjmy a variabilními náklady.",
+                "Rozdíl mezi celkovými příjmy a fixními náklady."
+              ]
+            },
+            {
+              "question": "Co jsou průměrné variabilní náklady (AVC)?",
+              "answers": [
+                "Variabilní náklady dělené množstvím vyrobených jednotek.",
+                "Fixní náklady dělené množstvím vyrobených jednotek.",
+                "Celkové náklady dělené množstvím vyrobených jednotek.",
+                "Náklady na jednotku vstupu."
+              ]
+            },
+            {
+              "question": "Co jsou průměrné fixní náklady (AFC)?",
+              "answers": [
+                "Fixní náklady dělené množstvím vyrobených jednotek.",
+                "Variabilní náklady dělené množstvím vyrobených jednotek.",
+                "Celkové náklady dělené množstvím vyrobených jednotek.",
+                "Náklady na jednotku vstupu."
+              ]
+            },
+            {
+              "question": "Jaký je vztah mezi mezními a průměrnými náklady?",
+              "answers": [
+                "Mezní náklady protínají průměrné náklady v jejich minimu.",
+                "Průměrné náklady protínají mezní náklady v jejich maximu.",
+                "Mezní náklady jsou vždy nižší než průměrné náklady.",
+                "Průměrné náklady jsou vždy vyšší než mezní náklady."
+              ]
+            },
+            {
+              "question": "Jaký je význam bodu zvratu?",
+              "answers": [
+                "Představuje bod, kdy jsou náklady vyrovnané s výnosy.",
+                "Představuje bod maximálního zisku.",
+                "Představuje bod minimálních nákladů.",
+                "Představuje bod maximálních výnosů."
+              ]
+            },
+            {
+              "question": "Co je bod uzavření firmy?",
+              "answers": [
+                "Bod, kdy se cena rovná průměrným variabilním nákladům.",
+                "Bod, kdy se cena rovná fixním nákladům.",
+                "Bod, kdy se cena rovná celkovým nákladům.",
+                "Bod, kdy se cena rovná mezním nákladům."
+              ]
+            },
+            {
+              "question": "Co je rovnováha firmy?",
+              "answers": [
+                "Situace, kdy firma dosahuje maximálního zisku při rovnosti mezních příjmů a mezních nákladů.",
+                "Situace, kdy firma dosahuje maximálních výnosů při rovnosti celkových příjmů a celkových nákladů.",
+                "Situace, kdy firma dosahuje minimálních nákladů při rovnosti fixních a variabilních nákladů.",
+                "Situace, kdy firma dosahuje maximálních příjmů při rovnosti průměrných příjmů a průměrných nákladů."
+              ]
+            },
+            {
+              "question": "Jaké jsou explicitní a implicitní náklady?",
+              "answers": [
+                "Explicitní náklady jsou peněžní výdaje firmy, implicitní náklady jsou náklady obětované příležitosti.",
+                "Explicitní náklady jsou náklady na údržbu a opravy, implicitní náklady jsou náklady na marketingové aktivity.",
+                "Explicitní náklady jsou fixní náklady, implicitní náklady jsou variabilní náklady.",
+                "Explicitní náklady jsou náklady na materiály, implicitní náklady jsou náklady na pracovní sílu."
+              ]
+            },
+            {
+              "question": "Co je průměrný příjem (AR)?",
+              "answers": [
+                "Příjem na jednotku produkce.",
+                "Celková částka, kterou firma získá prodejem svých výrobků.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Co je mezní příjem (MR)?",
+              "answers": [
+                "Změna celkového příjmu vyvolaná změnou vyrobeného množství o jednotku.",
+                "Příjem na jednotku produkce.",
+                "Celková částka, kterou firma získá prodejem svých výrobků.",
+                "Náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Co je celkový příjem (TR)?",
+              "answers": [
+                "Celková částka, kterou firma získá prodejem svých výrobků.",
+                "Příjem na jednotku produkce.",
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Náklady na výrobu."
+              ]
+            },
+            {
+              "question": "Jaký je vztah mezi celkovými a průměrnými náklady?",
+              "answers": [
+                "Průměrné náklady jsou celkové náklady dělené množstvím vyrobených jednotek.",
+                "Celkové náklady jsou průměrné náklady dělené množstvím vyrobených jednotek.",
+                "Průměrné náklady jsou fixní náklady dělené variabilními náklady.",
+                "Celkové náklady jsou fixní náklady plus variabilní náklady dělené množstvím vyrobených jednotek."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje nákladová křivka MC?",
+              "answers": [
+                "Náklady potřebné k rozšíření objemu výroby o jednotku.",
+                "Průměrné náklady na jednotku produkce.",
+                "Celkové náklady na všechny vyrobené jednotky.",
+                "Fixní náklady na jednotku produkce."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje nákladová křivka AC?",
+              "answers": [
+                "Náklady na jednotku produkce.",
+                "Náklady potřebné k rozšíření objemu výroby o jednotku.",
+                "Celkové náklady na všechny vyrobené jednotky.",
+                "Fixní náklady na jednotku produkce."
+              ]
+            },
+            {
+              "question": "Co je celkový zisk?",
+              "answers": [
+                "Rozdíl mezi celkovými příjmy a celkovými náklady.",
+                "Rozdíl mezi celkovými příjmy a variabilními náklady.",
+                "Rozdíl mezi celkovými příjmy a fixními náklady.",
+                "Rozdíl mezi celkovými příjmy a explicitními náklady."
+              ]
+            },
+            {
+              "question": "Co je bod rentability?",
+              "answers": [
+                "Bod, kdy celkové příjmy se rovnají celkovým nákladům.",
+                "Bod, kdy celkové příjmy se rovnají fixním nákladům.",
+                "Bod, kdy celkové příjmy se rovnají variabilním nákladům.",
+                "Bod, kdy celkové příjmy se rovnají explicitním nákladům."
+              ]
+            },
+            {
+              "question": "Co je bod uzavření?",
+              "answers": [
+                "Bod, kdy cena klesne pod průměrné variabilní náklady.",
+                "Bod, kdy cena klesne pod průměrné fixní náklady.",
+                "Bod, kdy cena klesne pod průměrné celkové náklady.",
+                "Bod, kdy cena klesne pod mezní náklady."
+              ]
+            },
+            {
+              "question": "Co je dlouhodobá křivka nabídky?",
+              "answers": [
+                "Křivka ukazující minimální náklady na výrobu při různých úrovních produkce.",
+                "Křivka ukazující maximální zisk při různých úrovních produkce.",
+                "Křivka ukazující průměrné náklady na výrobu při různých úrovních produkce.",
+                "Křivka ukazující mezní náklady na výrobu při různých úrovních produkce."
+              ]
+            }
+        ],
+        "4. Firma v podmínkách dokonalé konkurence": [
+            {
+              "question": "Jaká je křivka poptávky firmy v podmínkách dokonalé konkurence?",
+              "answers": [
+                "Dokonale elastická.",
+                "Dokonale neelastická.",
+                "Rostoucí.",
+                "Klesající."
+              ]
+            },
+            {
+              "question": "Co charakterizuje příjmy v dokonalé konkurenci?",
+              "answers": [
+                "Celkové příjmy jsou vždy konstantně rostoucí.",
+                "Celkové příjmy jsou vždy konstantně klesající.",
+                "Celkové příjmy se nemění.",
+                "Celkové příjmy kolísají v závislosti na nabídce."
+              ]
+            },
+            {
+              "question": "Co je podmínka rovnováhy firmy v dokonalé konkurenci?",
+              "answers": [
+                "MR = MC",
+                "MR = AC",
+                "TR = TC",
+                "AR = AC"
+              ]
+            },
+            {
+              "question": "Co je bod uzavření firmy?",
+              "answers": [
+                "Bod, kdy cena klesne pod průměrné variabilní náklady.",
+                "Bod, kdy cena klesne pod průměrné fixní náklady.",
+                "Bod, kdy cena klesne pod celkové náklady.",
+                "Bod, kdy cena klesne pod mezní náklady."
+              ]
+            },
+            {
+              "question": "Co znamená bod vyrovnání nákladů s výnosy?",
+              "answers": [
+                "MR = MC = AC = P",
+                "MR = MC = AVC = P",
+                "TR = TC = P",
+                "AR = AC = P"
+              ]
+            },
+            {
+              "question": "Co je cenová elasticita nabídky?",
+              "answers": [
+                "Citlivost nabídky na změnu ceny.",
+                "Citlivost poptávky na změnu ceny.",
+                "Citlivost poptávky na změnu důchodu.",
+                "Citlivost nabídky na změnu důchodu."
+              ]
+            },
+            {
+              "question": "Jaký je význam tržní rovnováhy v dokonalé konkurenci?",
+              "answers": [
+                "Efektivní rozdělení výrobních faktorů.",
+                "Maximalizace zisku firmy.",
+                "Minimalizace nákladů firmy.",
+                "Maximalizace přebytku spotřebitele."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje rovnovážný bod na trhu?",
+              "answers": [
+                "Bod, kde se protínají křivky poptávky a nabídky.",
+                "Bod, kde se protínají křivky příjmů a nákladů.",
+                "Bod, kde se protínají křivky fixních a variabilních nákladů.",
+                "Bod, kde se protínají křivky mezních a celkových nákladů."
+              ]
+            },
+            {
+              "question": "Co znamená MR = AR = P v dokonalé konkurenci?",
+              "answers": [
+                "Mezní příjem je roven průměrnému příjmu a ceně.",
+                "Mezní příjem je roven celkovému příjmu a ceně.",
+                "Průměrný příjem je roven celkovému příjmu a ceně.",
+                "Mezní příjem je roven fixním nákladům a ceně."
+              ]
+            },
+            {
+              "question": "Jaká je podmínka rovnováhy firmy při maximálním zisku?",
+              "answers": [
+                "MR = MC",
+                "AR = AC",
+                "TR = TC",
+                "MR = AC"
+              ]
+            },
+            {
+              "question": "Co se stane při MR > MC?",
+              "answers": [
+                "Firma zvýší výrobu.",
+                "Firma sníží výrobu.",
+                "Firma zvýší ceny.",
+                "Firma sníží ceny."
+              ]
+            },
+            {
+              "question": "Co se stane při MR < MC?",
+              "answers": [
+                "Firma sníží výrobu.",
+                "Firma zvýší výrobu.",
+                "Firma zvýší ceny.",
+                "Firma sníží ceny."
+              ]
+            },
+            {
+              "question": "Co je charakteristické pro bod uzavření firmy?",
+              "answers": [
+                "Cena se rovná průměrným variabilním nákladům.",
+                "Cena se rovná průměrným fixním nákladům.",
+                "Cena se rovná celkovým nákladům.",
+                "Cena se rovná mezním nákladům."
+              ]
+            },
+            {
+              "question": "Co znamená TR > VC?",
+              "answers": [
+                "Firma minimalizuje ztrátu výrobou.",
+                "Firma maximalizuje ztrátu výrobou.",
+                "Firma minimalizuje ztrátu přerušením výroby.",
+                "Firma maximalizuje zisk přerušením výroby."
+              ]
+            },
+            {
+              "question": "Co znamená TR < VC?",
+              "answers": [
+                "Firma minimalizuje ztrátu přerušením výroby.",
+                "Firma minimalizuje ztrátu výrobou.",
+                "Firma maximalizuje ztrátu výrobou.",
+                "Firma maximalizuje zisk přerušením výroby."
+              ]
+            },
+            {
+              "question": "Jaký je tvar křivky poptávky firmy v dokonalé konkurenci?",
+              "answers": [
+                "Horizontální přímka.",
+                "Vertikální přímka.",
+                "Klesající přímka.",
+                "Rostoucí přímka."
+              ]
+            },
+            {
+              "question": "Co je příjem v dokonalé konkurenci?",
+              "answers": [
+                "Celkové příjmy závisí pouze na objemu produkce.",
+                "Celkové příjmy závisí na ceně a objemu produkce.",
+                "Celkové příjmy jsou konstantní bez ohledu na produkci.",
+                "Celkové příjmy kolísají v závislosti na ceně."
+              ]
+            },
+            {
+              "question": "Jaký je vztah mezi průměrnými a mezními příjmy v dokonalé konkurenci?",
+              "answers": [
+                "AR = MR = P",
+                "AR = MR > P",
+                "AR > MR = P",
+                "AR = P > MR"
+              ]
+            },
+            {
+              "question": "Jaká je rovnováha na trhu v dokonalé konkurenci?",
+              "answers": [
+                "Stav, kdy se poptávka rovná nabídce.",
+                "Stav, kdy se příjmy rovnají nákladům.",
+                "Stav, kdy se průměrné náklady rovnají průměrným příjmům.",
+                "Stav, kdy se mezní náklady rovnají mezním příjmům."
+              ]
+            },
+            {
+              "question": "Co vyjadřuje křivka nabídky v dokonalé konkurenci?",
+              "answers": [
+                "Křivku mezních nákladů.",
+                "Křivku průměrných nákladů.",
+                "Křivku celkových nákladů.",
+                "Křivku průměrných fixních nákladů."
+              ]
+            },
+            {
+              "question": "Co znamená posun po křivce nabídky?",
+              "answers": [
+                "Změna nabízeného množství vlivem změny ceny.",
+                "Změna nabízeného množství vlivem změny poptávky.",
+                "Změna poptávaného množství vlivem změny ceny.",
+                "Změna poptávaného množství vlivem změny nabídky."
+              ]
+            },
+            {
+              "question": "Co znamená posun křivky nabídky?",
+              "answers": [
+                "Změna nabídky vyvolaná jinými než cenovými vlivy.",
+                "Změna nabídky vyvolaná změnou ceny.",
+                "Změna poptávky vyvolaná jinými než cenovými vlivy.",
+                "Změna poptávky vyvolaná změnou ceny."
+              ]
+            },
+            {
+              "question": "Jaký je vztah mezi mezními a průměrnými náklady při jejich minimu?",
+              "answers": [
+                "Mezní náklady protínají průměrné náklady v jejich minimu.",
+                "Průměrné náklady protínají mezní náklady v jejich maximu.",
+                "Mezní náklady jsou vždy nižší než průměrné náklady.",
+                "Průměrné náklady jsou vždy vyšší než mezní náklady."
+              ]
+            },
+            {
+              "question": "Co znamená, když je MR = MC?",
+              "answers": [
+                "Firma dosahuje maximálního zisku.",
+                "Firma dosahuje minimálních ztrát.",
+                "Firma dosahuje rovnovážné ceny.",
+                "Firma dosahuje maximální výroby."
+              ]
+            },
+            {
+              "question": "Jaký je vztah mezi TR a TC v bodě zvratu?",
+              "answers": [
+                "TR = TC",
+                "TR > TC",
+                "TR < TC",
+                "TR = P"
+              ]
+            },
+            {
+              "question": "Co je charakteristické pro cenovou elasticitu nabídky?",
+              "answers": [
+                "Procentuální změna nabízeného množství při změně ceny o 1%.",
+                "Procentuální změna poptávaného množství při změně ceny o 1%.",
+                "Procentuální změna nabízeného množství při změně důchodu o 1%.",
+                "Procentuální změna poptávaného množství při změně důchodu o 1%."
+              ]
+            },
+            {
+              "question": "Jaký je vliv časového faktoru na elasticitu nabídky?",
+              "answers": [
+                "Elasticita se zvyšuje s prodlužováním časového horizontu.",
+                "Elasticita se snižuje s prodlužováním časového horizontu.",
+                "Elasticita se nemění s časem.",
+                "Elasticita je vždy konstantní."
+              ]
+            },
+            {
+              "question": "Co je dlouhodobá křivka nabídky?",
+              "answers": [
+                "Křivka ukazující minimální náklady na výrobu při různých úrovních produkce.",
+                "Křivka ukazující maximální zisk při různých úrovních produkce.",
+                "Křivka ukazující průměrné náklady na výrobu při různých úrovních produkce.",
+                "Křivka ukazující mezní náklady na výrobu při různých úrovních produkce."
+              ]
+            },
+            {
+              "question": "Co představuje tržní rovnováha v dokonalé konkurenci?",
+              "answers": [
+                "Efektivní rozdělení výrobních faktorů.",
+                "Maximalizaci zisku firmy.",
+                "Minimalizaci nákladů firmy.",
+                "Maximalizaci přebytku spotřebitele."
+              ]
+            }
+        ]          
     },
     "Informační technologie": {
       "1": [
