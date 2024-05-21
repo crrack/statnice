@@ -85,9 +85,9 @@ async function startQuiz() {
     questions = data[currentCategory][currentItem].map(question => ({ ...question, parent: currentItem }));
   }
 
-  questions = shuffleArray(questions);
-
   document.getElementById('questionCount').textContent = questions.length;
+
+  questions = shuffleArray(questions);
 
   currentQuestionIndex = 0;
   showQuestion();
@@ -117,20 +117,49 @@ function showQuestion() {
     const button = document.createElement('button');
     button.textContent = answer;
     button.classList.add("answer");
-    button.addEventListener('click', () => checkAnswer(answer, questionObj.answers[0]));
+    button.addEventListener('click', () => checkAnswer(answer, questionObj));
     quizDiv.appendChild(button);
   });
 }
 
-function checkAnswer(selectedAnswer, correctAnswer) {
+function checkAnswer(selectedAnswer, questionObj) {
+  const correctAnswer = questionObj.answers[0];
   const buttons = document.querySelectorAll('#quiz button.answer');
+  const feedbackDiv = document.getElementById('feedback');
+  feedbackDiv.innerHTML = '';
+
+  const feedbackHr = document.createElement('hr');
+  feedbackDiv.appendChild(feedbackHr);
+
+  const questionFeedback = document.createElement('h2');
+  questionFeedback.classList.add('feedbackQuestion');
+  questionFeedback.textContent = questionObj.question;
+  feedbackDiv.appendChild(questionFeedback);
+
+  if (selectedAnswer === correctAnswer) {
+    correctCount++;
+    const correctFeedback = document.createElement('p');
+    correctFeedback.classList.add('correct');
+    correctFeedback.textContent = correctAnswer;
+    feedbackDiv.appendChild(correctFeedback);
+  } else {
+    incorrectCount++;
+    const incorrectFeedback = document.createElement('p');
+    incorrectFeedback.classList.add('incorrect');
+    incorrectFeedback.textContent = selectedAnswer;
+    feedbackDiv.appendChild(incorrectFeedback);
+
+    const correctFeedback = document.createElement('p');
+    correctFeedback.classList.add('correct');
+    correctFeedback.textContent = correctAnswer;
+    feedbackDiv.appendChild(correctFeedback);
+  }
+
   buttons.forEach(button => {
     if (button.textContent === correctAnswer) {
       button.classList.add('correct');
-      if (button.textContent === selectedAnswer) correctCount++;
     } else if (button.textContent === selectedAnswer) {
       button.classList.add('incorrect');
-      incorrectCount++;
     }
     button.disabled = true;
   });
@@ -141,7 +170,7 @@ function checkAnswer(selectedAnswer, correctAnswer) {
   setTimeout(() => {
     currentQuestionIndex++;
     showQuestion();
-  }, 1000);
+  }, 1400);
 }
 
 function shuffleArray(array) {
