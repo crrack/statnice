@@ -167,12 +167,13 @@ function checkAnswer(selectedAnswer, questionObj) {
   document.getElementById('correctCount').textContent = correctCount;
   document.getElementById('incorrectCount').textContent = incorrectCount;
 
-  scrollToEnd();
-
   setTimeout(() => {
     currentQuestionIndex++;
     showQuestion();
-  }, 1400);
+    setTimeout(() => {
+        scrollToEnd();
+    }, 1);
+  }, 1200);
 }
 
 function scrollToEnd() {
